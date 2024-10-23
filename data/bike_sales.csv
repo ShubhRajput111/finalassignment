@@ -1,0 +1,1000 @@
+Year,Customer_Age,Age_Group,Customer_Gender,Country,Order_Quantity,Profit,Revenue,Material,Warranty,Manufacturer,Rating,Eco_Friendly
+2017,19,Youth (<25),M,Canada,8,590,950,Plastic,1 Year,Manufacturer A,4,TRUE
+2014,19,Youth (<25),M,Canada,8,590,950,Steel,2 Years,Manufacturer A,5,TRUE
+2019,49,Adults (35-64),M,Australia,23,1366,2401,Steel,1 Year,Manufacturer D,3,TRUE
+2015,49,Adults (35-64),M,Australia,20,1188,2088,Carbon Fiber,1 Year,Manufacturer A,5,FALSE
+2018,47,Adults (35-64),F,Australia,4,238,418,Steel,3 Years,Manufacturer A,5,FALSE
+2023,47,Adults (35-64),F,Australia,5,297,522,Carbon Fiber,3 Years,Manufacturer A,2,TRUE
+2015,47,Adults (35-64),F,Australia,4,199,379,Carbon Fiber,Lifetime,Manufacturer B,3,TRUE
+2014,47,Adults (35-64),F,Australia,2,100,190,Carbon Fiber,3 Years,Manufacturer A,3,FALSE
+2021,35,Adults (35-64),M,Australia,22,1096,2086,Plastic,1 Year,Manufacturer A,3,FALSE
+2023,35,Adults (35-64),M,Australia,21,1046,1991,Carbon Fiber,2 Years,Manufacturer B,5,FALSE
+2015,32,Young Adults (25-34),F,Australia,8,398,758,Steel,Lifetime,Manufacturer D,4,FALSE
+2019,32,Young Adults (25-34),F,Australia,8,398,758,Plastic,3 Years,Manufacturer B,3,TRUE
+2021,34,Young Adults (25-34),M,Australia,7,349,664,Aluminum,3 Years,Manufacturer C,5,FALSE
+2020,34,Young Adults (25-34),M,Australia,7,349,664,Plastic,1 Year,Manufacturer A,2,TRUE
+2020,29,Young Adults (25-34),M,Canada,5,369,594,Steel,2 Years,Manufacturer C,4,TRUE
+2013,29,Young Adults (25-34),M,Canada,7,517,832,Steel,3 Years,Manufacturer B,2,FALSE
+2014,29,Young Adults (25-34),M,Canada,2,148,238,Plastic,2 Years,Manufacturer A,4,TRUE
+2022,29,Young Adults (25-34),M,Canada,1,74,119,Aluminum,3 Years,Manufacturer D,5,FALSE
+2016,29,Young Adults (25-34),M,Canada,1,74,119,Carbon Fiber,3 Years,Manufacturer A,1,FALSE
+2016,29,Young Adults (25-34),M,Canada,1,74,119,Plastic,Lifetime,Manufacturer B,4,FALSE
+2015,29,Young Adults (25-34),M,Canada,6,443,713,Carbon Fiber,1 Year,Manufacturer D,2,TRUE
+2014,29,Young Adults (25-34),M,Canada,8,590,950,Carbon Fiber,3 Years,Manufacturer C,5,TRUE
+2015,51,Adults (35-64),M,United States,9,524,929,Plastic,2 Years,Manufacturer C,4,FALSE
+2020,51,Adults (35-64),M,United States,7,407,722,Carbon Fiber,2 Years,Manufacturer C,1,TRUE
+2023,49,Adults (35-64),M,Canada,3,221,356,Plastic,1 Year,Manufacturer B,1,FALSE
+2015,49,Adults (35-64),M,Canada,1,74,119,Steel,1 Year,Manufacturer D,3,TRUE
+2015,49,Adults (35-64),M,Canada,6,443,713,Plastic,2 Years,Manufacturer D,3,TRUE
+2018,49,Adults (35-64),M,Canada,5,369,594,Carbon Fiber,2 Years,Manufacturer D,2,TRUE
+2023,48,Adults (35-64),F,Canada,4,295,475,Carbon Fiber,2 Years,Manufacturer D,4,TRUE
+2014,48,Adults (35-64),F,Canada,4,295,475,Carbon Fiber,Lifetime,Manufacturer B,4,TRUE
+2021,48,Adults (35-64),F,Canada,20,1476,2376,Plastic,3 Years,Manufacturer D,3,FALSE
+2016,48,Adults (35-64),F,Canada,22,1624,2614,Aluminum,3 Years,Manufacturer B,4,FALSE
+2013,47,Adults (35-64),F,Canada,24,1771,2851,Carbon Fiber,Lifetime,Manufacturer B,4,FALSE
+2021,47,Adults (35-64),F,Canada,23,1697,2732,Plastic,3 Years,Manufacturer A,1,TRUE
+2013,32,Young Adults (25-34),F,United States,9,524,929,Plastic,3 Years,Manufacturer D,3,FALSE
+2017,32,Young Adults (25-34),F,United States,9,524,929,Plastic,3 Years,Manufacturer A,5,FALSE
+2023,34,Young Adults (25-34),M,Canada,25,1845,2970,Steel,1 Year,Manufacturer A,3,TRUE
+2017,34,Young Adults (25-34),M,Canada,23,1697,2732,Steel,3 Years,Manufacturer D,5,FALSE
+2019,43,Adults (35-64),F,United States,10,726,1176,Aluminum,1 Year,Manufacturer A,1,FALSE
+2015,43,Adults (35-64),F,United States,10,726,1176,Carbon Fiber,Lifetime,Manufacturer C,2,TRUE
+2019,43,Adults (35-64),F,United States,11,799,1294,Steel,Lifetime,Manufacturer A,4,TRUE
+2019,43,Adults (35-64),F,United States,11,799,1294,Aluminum,2 Years,Manufacturer D,1,FALSE
+2017,61,Adults (35-64),M,United States,8,581,941,Carbon Fiber,1 Year,Manufacturer C,4,FALSE
+2021,61,Adults (35-64),M,United States,10,726,1176,Carbon Fiber,1 Year,Manufacturer A,2,TRUE
+2015,57,Adults (35-64),M,Canada,2,148,238,Steel,2 Years,Manufacturer D,2,TRUE
+2020,57,Adults (35-64),M,Canada,1,74,119,Aluminum,2 Years,Manufacturer C,1,TRUE
+2018,29,Young Adults (25-34),F,Canada,12,886,1426,Plastic,Lifetime,Manufacturer D,2,FALSE
+2015,29,Young Adults (25-34),F,Canada,14,1033,1663,Carbon Fiber,Lifetime,Manufacturer C,5,TRUE
+2022,38,Adults (35-64),M,Germany,3,160,295,Steel,2 Years,Manufacturer D,2,TRUE
+2015,38,Adults (35-64),M,Germany,1,53,98,Plastic,Lifetime,Manufacturer B,4,FALSE
+2013,52,Adults (35-64),F,France,8,427,787,Carbon Fiber,2 Years,Manufacturer A,4,TRUE
+2022,52,Adults (35-64),F,France,8,427,787,Plastic,1 Year,Manufacturer D,4,TRUE
+2017,43,Adults (35-64),F,France,28,1697,2957,Steel,Lifetime,Manufacturer D,4,FALSE
+2018,43,Adults (35-64),F,France,27,1636,2851,Plastic,2 Years,Manufacturer C,5,FALSE
+2014,24,Youth (<25),F,Australia,9,502,907,Plastic,2 Years,Manufacturer B,3,TRUE
+2021,24,Youth (<25),F,Australia,6,335,605,Steel,Lifetime,Manufacturer B,1,TRUE
+2013,23,Youth (<25),M,United States,6,436,706,Carbon Fiber,2 Years,Manufacturer C,4,TRUE
+2023,23,Youth (<25),M,United States,7,508,823,Aluminum,1 Year,Manufacturer D,2,FALSE
+2015,29,Young Adults (25-34),F,United Kingdom,15,1053,1728,Carbon Fiber,3 Years,Manufacturer C,4,TRUE
+2023,29,Young Adults (25-34),F,United Kingdom,15,1053,1728,Aluminum,3 Years,Manufacturer C,2,TRUE
+2021,32,Young Adults (25-34),M,France,6,356,626,Plastic,3 Years,Manufacturer C,2,TRUE
+2013,32,Young Adults (25-34),M,France,3,178,313,Steel,2 Years,Manufacturer C,4,TRUE
+2017,19,Youth (<25),F,Germany,6,320,590,Steel,Lifetime,Manufacturer C,5,FALSE
+2019,19,Youth (<25),F,Germany,8,427,787,Steel,3 Years,Manufacturer A,2,TRUE
+2016,26,Young Adults (25-34),F,Canada,7,517,832,Plastic,2 Years,Manufacturer B,2,TRUE
+2018,26,Young Adults (25-34),F,Canada,8,590,950,Plastic,1 Year,Manufacturer D,4,FALSE
+2017,35,Adults (35-64),M,Canada,1,74,119,Aluminum,Lifetime,Manufacturer B,2,FALSE
+2014,35,Adults (35-64),M,Canada,1,74,119,Plastic,1 Year,Manufacturer A,2,TRUE
+2018,35,Adults (35-64),M,Canada,10,738,1188,Plastic,3 Years,Manufacturer B,4,TRUE
+2020,35,Adults (35-64),M,Canada,12,886,1426,Steel,2 Years,Manufacturer C,4,FALSE
+2015,38,Adults (35-64),F,United States,4,290,470,Aluminum,2 Years,Manufacturer C,1,TRUE
+2023,38,Adults (35-64),F,United States,3,218,353,Aluminum,2 Years,Manufacturer C,5,TRUE
+2022,38,Adults (35-64),F,United States,2,145,235,Carbon Fiber,1 Year,Manufacturer D,5,TRUE
+2019,38,Adults (35-64),F,United States,2,145,235,Steel,3 Years,Manufacturer C,2,TRUE
+2016,38,Adults (35-64),F,United States,10,726,1176,Steel,1 Year,Manufacturer D,5,FALSE
+2014,38,Adults (35-64),F,United States,7,508,823,Plastic,Lifetime,Manufacturer B,2,TRUE
+2018,38,Adults (35-64),F,United States,13,944,1529,Steel,3 Years,Manufacturer B,1,TRUE
+2018,38,Adults (35-64),F,United States,12,871,1411,Carbon Fiber,2 Years,Manufacturer B,4,TRUE
+2021,54,Adults (35-64),F,Australia,7,391,706,Aluminum,1 Year,Manufacturer D,4,TRUE
+2015,54,Adults (35-64),F,Australia,6,335,605,Carbon Fiber,1 Year,Manufacturer C,4,FALSE
+2019,51,Adults (35-64),F,United States,7,340,655,Steel,Lifetime,Manufacturer D,5,TRUE
+2013,51,Adults (35-64),F,United States,9,437,842,Steel,Lifetime,Manufacturer B,1,TRUE
+2023,47,Adults (35-64),F,United States,6,436,706,Steel,1 Year,Manufacturer C,5,FALSE
+2014,47,Adults (35-64),F,United States,4,290,470,Aluminum,1 Year,Manufacturer A,5,FALSE
+2020,47,Adults (35-64),F,United States,17,1234,1999,Plastic,Lifetime,Manufacturer D,1,FALSE
+2016,47,Adults (35-64),F,United States,16,1162,1882,Aluminum,1 Year,Manufacturer C,1,TRUE
+2015,46,Adults (35-64),M,United States,1,49,94,Steel,3 Years,Manufacturer B,1,FALSE
+2020,46,Adults (35-64),M,United States,3,146,281,Plastic,3 Years,Manufacturer D,1,FALSE
+2016,46,Adults (35-64),M,United States,5,363,588,Carbon Fiber,2 Years,Manufacturer A,4,FALSE
+2018,46,Adults (35-64),M,United States,4,290,470,Aluminum,Lifetime,Manufacturer A,3,FALSE
+2022,46,Adults (35-64),M,United States,30,2178,3528,Aluminum,1 Year,Manufacturer C,3,FALSE
+2017,46,Adults (35-64),M,United States,27,1960,3175,Steel,1 Year,Manufacturer A,1,TRUE
+2013,46,Adults (35-64),M,United States,5,363,588,Carbon Fiber,1 Year,Manufacturer B,3,FALSE
+2019,46,Adults (35-64),M,United States,2,145,235,Plastic,3 Years,Manufacturer A,3,TRUE
+2013,41,Adults (35-64),F,Germany,28,1865,3125,Aluminum,Lifetime,Manufacturer C,1,FALSE
+2021,41,Adults (35-64),F,Germany,29,1931,3236,Steel,3 Years,Manufacturer A,3,TRUE
+2020,32,Young Adults (25-34),M,United States,3,146,281,Plastic,2 Years,Manufacturer B,5,FALSE
+2017,32,Young Adults (25-34),M,United States,1,49,94,Aluminum,2 Years,Manufacturer A,2,FALSE
+2017,32,Young Adults (25-34),M,United States,8,581,941,Plastic,3 Years,Manufacturer A,2,FALSE
+2015,32,Young Adults (25-34),M,United States,9,653,1058,Plastic,3 Years,Manufacturer C,1,FALSE
+2013,32,Young Adults (25-34),M,United States,26,1888,3058,Steel,3 Years,Manufacturer C,4,TRUE
+2022,32,Young Adults (25-34),M,United States,27,1960,3175,Aluminum,3 Years,Manufacturer A,1,FALSE
+2020,33,Young Adults (25-34),F,Canada,5,369,594,Aluminum,2 Years,Manufacturer C,4,FALSE
+2015,33,Young Adults (25-34),F,Canada,3,221,356,Carbon Fiber,3 Years,Manufacturer C,2,TRUE
+2022,33,Young Adults (25-34),F,Canada,15,1107,1782,Steel,3 Years,Manufacturer D,1,FALSE
+2014,33,Young Adults (25-34),F,Canada,15,1107,1782,Plastic,Lifetime,Manufacturer C,5,TRUE
+2013,42,Adults (35-64),M,United States,1,73,118,Plastic,2 Years,Manufacturer B,3,FALSE
+2016,42,Adults (35-64),M,United States,3,218,353,Carbon Fiber,1 Year,Manufacturer C,4,TRUE
+2015,42,Adults (35-64),M,United States,17,989,1754,Steel,1 Year,Manufacturer C,3,TRUE
+2019,42,Adults (35-64),M,United States,16,931,1651,Carbon Fiber,1 Year,Manufacturer C,3,FALSE
+2019,43,Adults (35-64),F,United States,10,486,936,Steel,2 Years,Manufacturer A,1,TRUE
+2015,43,Adults (35-64),F,United States,10,486,936,Carbon Fiber,1 Year,Manufacturer A,3,FALSE
+2020,43,Adults (35-64),F,United States,10,486,936,Aluminum,Lifetime,Manufacturer A,5,TRUE
+2023,43,Adults (35-64),F,United States,9,437,842,Carbon Fiber,2 Years,Manufacturer D,3,TRUE
+2018,45,Adults (35-64),F,United States,3,146,281,Plastic,1 Year,Manufacturer C,1,TRUE
+2018,45,Adults (35-64),F,United States,2,97,187,Aluminum,2 Years,Manufacturer B,5,FALSE
+2023,53,Adults (35-64),M,United Kingdom,4,281,461,Plastic,Lifetime,Manufacturer C,2,FALSE
+2017,53,Adults (35-64),M,United Kingdom,2,140,230,Steel,3 Years,Manufacturer A,3,TRUE
+2013,21,Youth (<25),F,Australia,3,149,284,Aluminum,2 Years,Manufacturer B,1,TRUE
+2018,21,Youth (<25),F,Australia,1,50,95,Plastic,3 Years,Manufacturer C,2,TRUE
+2021,34,Young Adults (25-34),F,Australia,5,297,522,Aluminum,Lifetime,Manufacturer C,2,TRUE
+2016,34,Young Adults (25-34),F,Australia,3,178,313,Steel,2 Years,Manufacturer A,4,FALSE
+2015,22,Youth (<25),F,United States,1,73,118,Aluminum,2 Years,Manufacturer D,5,TRUE
+2013,22,Youth (<25),F,United States,1,73,118,Aluminum,2 Years,Manufacturer D,3,TRUE
+2020,67,Seniors (64+),F,United States,2,145,235,Steel,2 Years,Manufacturer A,1,TRUE
+2021,67,Seniors (64+),F,United States,1,73,118,Plastic,3 Years,Manufacturer B,4,TRUE
+2015,31,Young Adults (25-34),M,United States,3,146,281,Aluminum,2 Years,Manufacturer C,5,TRUE
+2015,31,Young Adults (25-34),M,United States,5,243,468,Aluminum,2 Years,Manufacturer A,4,TRUE
+2016,31,Young Adults (25-34),M,United States,12,698,1238,Plastic,1 Year,Manufacturer C,5,FALSE
+2016,31,Young Adults (25-34),M,United States,12,698,1238,Plastic,1 Year,Manufacturer C,5,TRUE
+2019,37,Adults (35-64),M,France,4,238,418,Aluminum,2 Years,Manufacturer B,3,FALSE
+2014,37,Adults (35-64),M,France,3,178,313,Carbon Fiber,2 Years,Manufacturer B,5,FALSE
+2017,26,Young Adults (25-34),M,Australia,5,279,504,Aluminum,1 Year,Manufacturer B,4,FALSE
+2017,26,Young Adults (25-34),M,Australia,7,391,706,Steel,2 Years,Manufacturer D,5,FALSE
+2017,87,Seniors (64+),F,Germany,2,107,197,Aluminum,3 Years,Manufacturer D,3,FALSE
+2023,87,Seniors (64+),F,Germany,3,160,295,Plastic,1 Year,Manufacturer A,3,TRUE
+2016,25,Young Adults (25-34),F,Germany,2,119,209,Steel,3 Years,Manufacturer C,4,TRUE
+2017,25,Young Adults (25-34),F,Germany,3,178,313,Aluminum,3 Years,Manufacturer D,2,FALSE
+2017,31,Young Adults (25-34),F,Germany,3,200,335,Aluminum,Lifetime,Manufacturer B,2,TRUE
+2014,31,Young Adults (25-34),F,Germany,2,133,223,Plastic,3 Years,Manufacturer B,5,TRUE
+2018,32,Young Adults (25-34),F,France,5,309,534,Plastic,1 Year,Manufacturer C,1,FALSE
+2014,32,Young Adults (25-34),F,France,7,433,748,Aluminum,3 Years,Manufacturer A,5,FALSE
+2021,25,Young Adults (25-34),M,Canada,2,148,238,Carbon Fiber,Lifetime,Manufacturer D,4,FALSE
+2016,25,Young Adults (25-34),M,Canada,3,221,356,Steel,1 Year,Manufacturer A,4,TRUE
+2020,26,Young Adults (25-34),F,United States,10,486,936,Plastic,2 Years,Manufacturer B,4,TRUE
+2022,26,Young Adults (25-34),F,United States,9,437,842,Aluminum,1 Year,Manufacturer D,4,TRUE
+2018,26,Young Adults (25-34),F,United States,5,243,468,Carbon Fiber,3 Years,Manufacturer A,4,TRUE
+2017,26,Young Adults (25-34),F,United States,2,97,187,Steel,1 Year,Manufacturer A,3,TRUE
+2020,33,Young Adults (25-34),M,Australia,8,446,806,Aluminum,2 Years,Manufacturer B,2,FALSE
+2015,33,Young Adults (25-34),M,Australia,8,446,806,Steel,1 Year,Manufacturer D,4,FALSE
+2022,29,Young Adults (25-34),F,United States,7,407,722,Aluminum,2 Years,Manufacturer A,1,TRUE
+2023,29,Young Adults (25-34),F,United States,8,466,826,Steel,Lifetime,Manufacturer B,1,FALSE
+2018,24,Youth (<25),F,United States,5,291,516,Aluminum,Lifetime,Manufacturer C,1,FALSE
+2015,24,Youth (<25),F,United States,7,407,722,Steel,2 Years,Manufacturer A,1,FALSE
+2018,31,Young Adults (25-34),M,United States,7,508,823,Plastic,1 Year,Manufacturer C,3,FALSE
+2017,31,Young Adults (25-34),M,United States,6,436,706,Aluminum,2 Years,Manufacturer D,1,FALSE
+2023,40,Adults (35-64),M,United States,1,63,108,Aluminum,Lifetime,Manufacturer A,4,FALSE
+2016,40,Adults (35-64),M,United States,1,63,108,Steel,3 Years,Manufacturer C,5,TRUE
+2023,44,Adults (35-64),M,Australia,10,594,1044,Plastic,Lifetime,Manufacturer C,1,FALSE
+2017,44,Adults (35-64),M,Australia,12,713,1253,Carbon Fiber,3 Years,Manufacturer D,3,FALSE
+2014,44,Adults (35-64),M,Australia,4,238,418,Plastic,1 Year,Manufacturer D,3,TRUE
+2023,44,Adults (35-64),M,Australia,6,356,626,Steel,3 Years,Manufacturer C,1,FALSE
+2014,21,Youth (<25),F,Canada,2,148,238,Carbon Fiber,Lifetime,Manufacturer D,5,FALSE
+2020,21,Youth (<25),F,Canada,1,74,119,Aluminum,1 Year,Manufacturer C,1,FALSE
+2023,25,Young Adults (25-34),M,United States,6,349,619,Aluminum,2 Years,Manufacturer D,3,FALSE
+2014,25,Young Adults (25-34),M,United States,7,407,722,Steel,Lifetime,Manufacturer B,2,TRUE
+2019,25,Young Adults (25-34),M,United States,9,653,1058,Carbon Fiber,Lifetime,Manufacturer C,4,TRUE
+2019,25,Young Adults (25-34),M,United States,9,653,1058,Carbon Fiber,2 Years,Manufacturer D,3,TRUE
+2019,29,Young Adults (25-34),F,United States,25,1815,2940,Aluminum,Lifetime,Manufacturer A,1,TRUE
+2017,29,Young Adults (25-34),F,United States,22,1597,2587,Steel,Lifetime,Manufacturer B,4,TRUE
+2021,29,Young Adults (25-34),F,United States,11,799,1294,Carbon Fiber,Lifetime,Manufacturer D,1,FALSE
+2014,29,Young Adults (25-34),F,United States,11,799,1294,Carbon Fiber,2 Years,Manufacturer B,1,FALSE
+2014,55,Adults (35-64),F,United States,2,97,187,Aluminum,Lifetime,Manufacturer B,2,TRUE
+2016,55,Adults (35-64),F,United States,1,49,94,Carbon Fiber,2 Years,Manufacturer B,4,TRUE
+2021,55,Adults (35-64),M,United States,4,194,374,Plastic,1 Year,Manufacturer B,4,TRUE
+2021,55,Adults (35-64),M,United States,6,292,562,Carbon Fiber,3 Years,Manufacturer D,2,FALSE
+2018,55,Adults (35-64),M,United States,9,437,842,Steel,1 Year,Manufacturer B,3,TRUE
+2021,55,Adults (35-64),M,United States,6,292,562,Carbon Fiber,3 Years,Manufacturer A,1,FALSE
+2018,55,Adults (35-64),M,United States,15,873,1548,Carbon Fiber,3 Years,Manufacturer B,5,FALSE
+2019,55,Adults (35-64),M,United States,15,873,1548,Steel,3 Years,Manufacturer B,1,FALSE
+2015,53,Adults (35-64),F,United States,7,508,823,Steel,2 Years,Manufacturer C,1,TRUE
+2019,53,Adults (35-64),F,United States,8,581,941,Steel,2 Years,Manufacturer A,3,FALSE
+2015,53,Adults (35-64),F,United States,30,2178,3528,Aluminum,1 Year,Manufacturer D,1,FALSE
+2019,53,Adults (35-64),F,United States,29,2105,3410,Carbon Fiber,3 Years,Manufacturer A,2,TRUE
+2013,53,Adults (35-64),F,United States,6,436,706,Steel,Lifetime,Manufacturer D,2,FALSE
+2023,53,Adults (35-64),F,United States,6,436,706,Carbon Fiber,Lifetime,Manufacturer C,4,FALSE
+2015,50,Adults (35-64),F,United States,10,486,936,Aluminum,2 Years,Manufacturer A,5,TRUE
+2023,50,Adults (35-64),F,United States,9,437,842,Steel,2 Years,Manufacturer D,1,TRUE
+2015,55,Adults (35-64),M,United States,12,871,1411,Carbon Fiber,2 Years,Manufacturer B,1,TRUE
+2018,55,Adults (35-64),M,United States,9,653,1058,Aluminum,Lifetime,Manufacturer B,3,TRUE
+2023,55,Adults (35-64),M,United States,3,218,353,Steel,Lifetime,Manufacturer C,2,FALSE
+2015,55,Adults (35-64),M,United States,3,218,353,Carbon Fiber,Lifetime,Manufacturer A,5,TRUE
+2021,59,Adults (35-64),F,United States,30,1458,2808,Carbon Fiber,2 Years,Manufacturer D,4,FALSE
+2015,59,Adults (35-64),F,United States,30,1458,2808,Steel,3 Years,Manufacturer B,2,FALSE
+2019,24,Youth (<25),M,Australia,8,475,835,Steel,Lifetime,Manufacturer D,4,FALSE
+2020,24,Youth (<25),M,Australia,6,356,626,Carbon Fiber,2 Years,Manufacturer A,3,TRUE
+2015,24,Youth (<25),F,Australia,2,100,190,Steel,Lifetime,Manufacturer A,3,FALSE
+2016,24,Youth (<25),F,Australia,4,199,379,Steel,Lifetime,Manufacturer C,1,FALSE
+2014,26,Young Adults (25-34),M,Australia,7,416,731,Plastic,Lifetime,Manufacturer C,5,FALSE
+2017,26,Young Adults (25-34),M,Australia,4,238,418,Steel,3 Years,Manufacturer D,4,FALSE
+2016,26,Young Adults (25-34),M,Australia,6,299,569,Plastic,1 Year,Manufacturer D,2,FALSE
+2022,26,Young Adults (25-34),M,Australia,7,349,664,Plastic,3 Years,Manufacturer C,3,FALSE
+2022,23,Youth (<25),M,Germany,26,1388,2558,Carbon Fiber,2 Years,Manufacturer B,1,FALSE
+2021,23,Youth (<25),M,Germany,23,1228,2263,Carbon Fiber,Lifetime,Manufacturer A,1,TRUE
+2020,17,Youth (<25),M,United Kingdom,6,421,691,Carbon Fiber,3 Years,Manufacturer D,4,TRUE
+2014,17,Youth (<25),M,United Kingdom,8,562,922,Aluminum,1 Year,Manufacturer B,3,TRUE
+2021,17,Youth (<25),M,United Kingdom,1,70,115,Aluminum,Lifetime,Manufacturer C,5,TRUE
+2020,17,Youth (<25),M,United Kingdom,1,70,115,Plastic,Lifetime,Manufacturer B,3,FALSE
+2020,31,Young Adults (25-34),F,United Kingdom,4,281,461,Plastic,2 Years,Manufacturer C,4,TRUE
+2017,31,Young Adults (25-34),F,United Kingdom,6,421,691,Plastic,2 Years,Manufacturer D,4,FALSE
+2021,32,Young Adults (25-34),F,United States,10,486,936,Steel,3 Years,Manufacturer A,3,FALSE
+2013,32,Young Adults (25-34),F,United States,8,389,749,Plastic,1 Year,Manufacturer B,4,FALSE
+2022,37,Adults (35-64),F,Canada,19,1402,2257,Carbon Fiber,2 Years,Manufacturer B,3,FALSE
+2023,37,Adults (35-64),F,Canada,17,1255,2020,Plastic,2 Years,Manufacturer C,2,TRUE
+2018,49,Adults (35-64),M,Australia,3,149,284,Carbon Fiber,1 Year,Manufacturer B,3,TRUE
+2017,49,Adults (35-64),M,Australia,4,199,379,Steel,1 Year,Manufacturer C,3,FALSE
+2020,42,Adults (35-64),M,Australia,8,398,758,Carbon Fiber,3 Years,Manufacturer C,4,FALSE
+2013,42,Adults (35-64),M,Australia,6,299,569,Plastic,1 Year,Manufacturer C,4,TRUE
+2019,35,Adults (35-64),F,Australia,1,56,101,Steel,Lifetime,Manufacturer A,1,FALSE
+2014,35,Adults (35-64),F,Australia,1,56,101,Carbon Fiber,3 Years,Manufacturer C,1,FALSE
+2017,27,Young Adults (25-34),F,United Kingdom,6,421,691,Carbon Fiber,1 Year,Manufacturer B,2,TRUE
+2022,27,Young Adults (25-34),F,United Kingdom,3,211,346,Plastic,3 Years,Manufacturer B,1,FALSE
+2021,27,Young Adults (25-34),F,United Kingdom,2,140,230,Aluminum,2 Years,Manufacturer D,3,TRUE
+2021,27,Young Adults (25-34),F,United Kingdom,1,70,115,Carbon Fiber,2 Years,Manufacturer B,4,TRUE
+2019,28,Young Adults (25-34),F,Germany,8,475,835,Carbon Fiber,2 Years,Manufacturer C,1,TRUE
+2020,28,Young Adults (25-34),F,Germany,5,297,522,Plastic,1 Year,Manufacturer A,1,FALSE
+2019,45,Adults (35-64),F,France,21,1121,2066,Aluminum,2 Years,Manufacturer B,2,FALSE
+2015,45,Adults (35-64),F,France,22,1175,2165,Carbon Fiber,2 Years,Manufacturer A,2,FALSE
+2023,50,Adults (35-64),M,Germany,27,1798,3013,Aluminum,1 Year,Manufacturer C,3,TRUE
+2019,50,Adults (35-64),M,Germany,26,1732,2902,Steel,2 Years,Manufacturer C,4,TRUE
+2020,36,Adults (35-64),F,Australia,5,267,492,Carbon Fiber,3 Years,Manufacturer A,2,FALSE
+2018,36,Adults (35-64),F,Australia,5,267,492,Aluminum,1 Year,Manufacturer C,1,FALSE
+2017,44,Adults (35-64),M,United States,10,726,1176,Plastic,2 Years,Manufacturer C,4,TRUE
+2019,44,Adults (35-64),M,United States,10,726,1176,Steel,2 Years,Manufacturer C,4,FALSE
+2017,44,Adults (35-64),M,United States,17,1234,1999,Plastic,Lifetime,Manufacturer A,1,FALSE
+2015,44,Adults (35-64),M,United States,19,1379,2234,Aluminum,2 Years,Manufacturer C,2,FALSE
+2015,42,Adults (35-64),F,France,16,950,1670,Carbon Fiber,Lifetime,Manufacturer C,1,TRUE
+2014,42,Adults (35-64),F,France,17,1010,1775,Aluminum,Lifetime,Manufacturer C,4,FALSE
+2020,29,Young Adults (25-34),M,United States,3,175,310,Carbon Fiber,1 Year,Manufacturer B,5,TRUE
+2022,29,Young Adults (25-34),M,United States,3,175,310,Plastic,1 Year,Manufacturer A,5,FALSE
+2022,29,Young Adults (25-34),M,United States,27,1571,2786,Steel,Lifetime,Manufacturer B,3,FALSE
+2014,29,Young Adults (25-34),M,United States,24,1397,2477,Plastic,2 Years,Manufacturer C,1,FALSE
+2023,29,Young Adults (25-34),M,United States,6,436,706,Plastic,1 Year,Manufacturer A,1,FALSE
+2016,29,Young Adults (25-34),M,United States,8,581,941,Steel,Lifetime,Manufacturer A,3,TRUE
+2020,31,Young Adults (25-34),M,Canada,29,2140,3445,Carbon Fiber,2 Years,Manufacturer A,3,TRUE
+2014,31,Young Adults (25-34),M,Canada,30,2214,3564,Plastic,Lifetime,Manufacturer A,3,TRUE
+2022,29,Young Adults (25-34),M,France,12,713,1253,Aluminum,2 Years,Manufacturer C,4,FALSE
+2019,29,Young Adults (25-34),M,France,13,772,1357,Carbon Fiber,1 Year,Manufacturer A,1,TRUE
+2013,41,Adults (35-64),M,Canada,10,738,1188,Plastic,Lifetime,Manufacturer A,4,TRUE
+2023,41,Adults (35-64),M,Canada,7,517,832,Steel,2 Years,Manufacturer C,3,FALSE
+2023,41,Adults (35-64),M,Canada,2,148,238,Steel,1 Year,Manufacturer D,1,TRUE
+2017,41,Adults (35-64),M,Canada,1,74,119,Carbon Fiber,Lifetime,Manufacturer C,4,FALSE
+2023,41,Adults (35-64),F,United States,3,218,353,Plastic,3 Years,Manufacturer C,4,FALSE
+2016,41,Adults (35-64),F,United States,5,363,588,Aluminum,2 Years,Manufacturer C,3,FALSE
+2023,32,Young Adults (25-34),F,Germany,5,333,558,Carbon Fiber,2 Years,Manufacturer C,1,FALSE
+2023,32,Young Adults (25-34),F,Germany,2,133,223,Steel,1 Year,Manufacturer B,3,FALSE
+2022,32,Young Adults (25-34),M,United Kingdom,2,140,230,Carbon Fiber,3 Years,Manufacturer D,1,TRUE
+2020,32,Young Adults (25-34),M,United Kingdom,2,140,230,Plastic,Lifetime,Manufacturer B,5,TRUE
+2019,32,Young Adults (25-34),F,Germany,10,594,1044,Carbon Fiber,Lifetime,Manufacturer A,2,FALSE
+2016,32,Young Adults (25-34),F,Germany,12,713,1253,Steel,1 Year,Manufacturer A,2,FALSE
+2016,35,Adults (35-64),M,France,10,618,1068,Aluminum,1 Year,Manufacturer A,2,TRUE
+2016,35,Adults (35-64),M,France,12,742,1282,Plastic,Lifetime,Manufacturer B,3,FALSE
+2017,53,Adults (35-64),F,France,1,53,98,Carbon Fiber,2 Years,Manufacturer C,5,FALSE
+2015,53,Adults (35-64),F,France,2,107,197,Carbon Fiber,Lifetime,Manufacturer B,1,FALSE
+2023,56,Adults (35-64),M,United States,8,581,941,Steel,1 Year,Manufacturer B,4,TRUE
+2015,56,Adults (35-64),M,United States,9,653,1058,Aluminum,Lifetime,Manufacturer C,1,FALSE
+2020,24,Youth (<25),F,Canada,4,300,480,Steel,Lifetime,Manufacturer A,4,FALSE
+2021,24,Youth (<25),F,Canada,6,450,720,Plastic,1 Year,Manufacturer B,1,FALSE
+2017,35,Adults (35-64),F,Australia,7,416,731,Aluminum,3 Years,Manufacturer D,5,FALSE
+2017,35,Adults (35-64),F,Australia,9,535,940,Steel,Lifetime,Manufacturer A,4,TRUE
+2019,27,Young Adults (25-34),F,Canada,8,590,950,Aluminum,Lifetime,Manufacturer D,3,TRUE
+2019,27,Young Adults (25-34),F,Canada,6,443,713,Steel,Lifetime,Manufacturer D,1,FALSE
+2016,31,Young Adults (25-34),F,Canada,10,738,1188,Aluminum,1 Year,Manufacturer A,1,TRUE
+2020,31,Young Adults (25-34),F,Canada,12,886,1426,Carbon Fiber,1 Year,Manufacturer B,4,FALSE
+2023,28,Young Adults (25-34),F,United States,9,437,842,Plastic,1 Year,Manufacturer A,3,TRUE
+2014,28,Young Adults (25-34),F,United States,9,437,842,Steel,2 Years,Manufacturer B,3,FALSE
+2013,28,Young Adults (25-34),F,Australia,10,594,1044,Aluminum,1 Year,Manufacturer C,5,TRUE
+2019,28,Young Adults (25-34),F,Australia,9,535,940,Plastic,2 Years,Manufacturer B,3,TRUE
+2016,28,Young Adults (25-34),F,Australia,4,238,418,Steel,3 Years,Manufacturer A,3,TRUE
+2015,28,Young Adults (25-34),F,Australia,3,178,313,Steel,Lifetime,Manufacturer D,3,TRUE
+2013,28,Young Adults (25-34),F,Australia,3,178,313,Aluminum,Lifetime,Manufacturer D,2,FALSE
+2019,28,Young Adults (25-34),F,Australia,3,178,313,Plastic,3 Years,Manufacturer B,5,FALSE
+2023,27,Young Adults (25-34),M,Germany,17,1132,1897,Carbon Fiber,1 Year,Manufacturer C,1,TRUE
+2023,27,Young Adults (25-34),M,Germany,14,932,1562,Steel,2 Years,Manufacturer D,4,FALSE
+2014,31,Young Adults (25-34),F,Australia,9,502,907,Steel,1 Year,Manufacturer B,1,FALSE
+2015,31,Young Adults (25-34),F,Australia,9,502,907,Aluminum,3 Years,Manufacturer B,5,TRUE
+2022,58,Adults (35-64),F,Australia,10,534,984,Carbon Fiber,3 Years,Manufacturer C,4,FALSE
+2014,58,Adults (35-64),F,Australia,8,427,787,Steel,3 Years,Manufacturer B,5,FALSE
+2015,30,Young Adults (25-34),M,United States,17,1234,1999,Carbon Fiber,1 Year,Manufacturer D,3,TRUE
+2016,30,Young Adults (25-34),M,United States,14,1016,1646,Carbon Fiber,1 Year,Manufacturer A,4,FALSE
+2020,30,Young Adults (25-34),M,United States,10,726,1176,Carbon Fiber,3 Years,Manufacturer B,3,TRUE
+2023,30,Young Adults (25-34),M,United States,9,653,1058,Aluminum,Lifetime,Manufacturer A,1,TRUE
+2020,30,Young Adults (25-34),M,United States,5,363,588,Aluminum,2 Years,Manufacturer C,1,TRUE
+2016,30,Young Adults (25-34),M,United States,6,436,706,Steel,Lifetime,Manufacturer A,4,FALSE
+2015,30,Young Adults (25-34),M,United States,6,436,706,Carbon Fiber,2 Years,Manufacturer D,4,FALSE
+2018,30,Young Adults (25-34),M,United States,3,218,353,Carbon Fiber,1 Year,Manufacturer C,5,TRUE
+2023,30,Young Adults (25-34),M,United States,7,508,823,Plastic,2 Years,Manufacturer C,5,FALSE
+2019,30,Young Adults (25-34),M,United States,7,508,823,Aluminum,Lifetime,Manufacturer C,3,TRUE
+2016,52,Adults (35-64),M,United States,4,194,374,Aluminum,Lifetime,Manufacturer D,4,FALSE
+2017,52,Adults (35-64),M,United States,4,194,374,Plastic,Lifetime,Manufacturer B,1,FALSE
+2017,51,Adults (35-64),M,Canada,6,443,713,Plastic,2 Years,Manufacturer A,5,FALSE
+2021,51,Adults (35-64),M,Canada,6,443,713,Aluminum,3 Years,Manufacturer A,5,TRUE
+2020,47,Adults (35-64),M,Canada,9,664,1069,Plastic,Lifetime,Manufacturer D,1,FALSE
+2017,47,Adults (35-64),M,Canada,11,812,1307,Steel,Lifetime,Manufacturer C,5,TRUE
+2016,45,Adults (35-64),M,Canada,8,590,950,Aluminum,Lifetime,Manufacturer D,3,TRUE
+2013,45,Adults (35-64),M,Canada,5,369,594,Plastic,Lifetime,Manufacturer D,4,TRUE
+2017,33,Young Adults (25-34),M,Canada,1,74,119,Steel,Lifetime,Manufacturer A,1,TRUE
+2023,33,Young Adults (25-34),M,Canada,2,148,238,Steel,1 Year,Manufacturer B,4,FALSE
+2020,33,Young Adults (25-34),M,Canada,5,369,594,Aluminum,2 Years,Manufacturer A,5,TRUE
+2021,33,Young Adults (25-34),M,Canada,2,148,238,Aluminum,2 Years,Manufacturer B,5,TRUE
+2023,33,Young Adults (25-34),M,United States,7,340,655,Plastic,1 Year,Manufacturer A,1,TRUE
+2022,33,Young Adults (25-34),M,United States,6,292,562,Steel,2 Years,Manufacturer D,3,FALSE
+2016,37,Adults (35-64),M,United States,7,407,722,Aluminum,2 Years,Manufacturer A,2,FALSE
+2023,37,Adults (35-64),M,United States,7,407,722,Aluminum,3 Years,Manufacturer D,1,TRUE
+2022,59,Adults (35-64),M,Germany,3,221,356,Aluminum,2 Years,Manufacturer A,2,FALSE
+2018,59,Adults (35-64),M,Germany,1,74,119,Carbon Fiber,Lifetime,Manufacturer A,2,FALSE
+2014,31,Young Adults (25-34),M,Australia,7,391,706,Carbon Fiber,3 Years,Manufacturer D,3,TRUE
+2013,31,Young Adults (25-34),M,Australia,6,335,605,Aluminum,3 Years,Manufacturer A,2,TRUE
+2020,31,Young Adults (25-34),F,United States,6,349,619,Aluminum,Lifetime,Manufacturer A,2,TRUE
+2015,31,Young Adults (25-34),F,United States,5,291,516,Aluminum,2 Years,Manufacturer B,3,TRUE
+2014,18,Youth (<25),F,Germany,8,533,893,Steel,1 Year,Manufacturer B,2,TRUE
+2014,18,Youth (<25),F,Germany,10,666,1116,Steel,1 Year,Manufacturer C,2,TRUE
+2022,42,Adults (35-64),F,Canada,4,295,475,Steel,1 Year,Manufacturer B,2,FALSE
+2022,42,Adults (35-64),F,Canada,1,74,119,Aluminum,Lifetime,Manufacturer D,1,TRUE
+2017,32,Young Adults (25-34),M,France,5,267,492,Aluminum,3 Years,Manufacturer A,1,FALSE
+2014,32,Young Adults (25-34),M,France,3,160,295,Aluminum,1 Year,Manufacturer A,1,FALSE
+2017,35,Adults (35-64),F,United Kingdom,26,1825,2995,Plastic,3 Years,Manufacturer B,3,FALSE
+2019,35,Adults (35-64),F,United Kingdom,28,1966,3226,Carbon Fiber,1 Year,Manufacturer C,5,TRUE
+2019,35,Adults (35-64),F,United Kingdom,2,140,230,Aluminum,3 Years,Manufacturer D,2,TRUE
+2020,35,Adults (35-64),F,United Kingdom,1,70,115,Carbon Fiber,2 Years,Manufacturer D,2,FALSE
+2022,21,Youth (<25),F,Germany,4,238,418,Carbon Fiber,3 Years,Manufacturer D,3,FALSE
+2017,21,Youth (<25),F,Germany,4,238,418,Plastic,3 Years,Manufacturer B,2,FALSE
+2014,28,Young Adults (25-34),F,United Kingdom,9,632,1037,Aluminum,Lifetime,Manufacturer A,1,TRUE
+2023,28,Young Adults (25-34),F,United Kingdom,6,421,691,Aluminum,Lifetime,Manufacturer C,5,TRUE
+2019,53,Adults (35-64),M,United States,7,407,722,Steel,Lifetime,Manufacturer C,4,FALSE
+2020,53,Adults (35-64),M,United States,6,349,619,Aluminum,2 Years,Manufacturer A,2,TRUE
+2020,45,Adults (35-64),F,Canada,11,812,1307,Steel,2 Years,Manufacturer B,1,FALSE
+2014,45,Adults (35-64),F,Canada,8,590,950,Steel,Lifetime,Manufacturer B,4,FALSE
+2022,45,Adults (35-64),F,Canada,26,1919,3089,Plastic,Lifetime,Manufacturer B,5,FALSE
+2020,45,Adults (35-64),F,Canada,27,1993,3208,Aluminum,1 Year,Manufacturer B,4,FALSE
+2017,59,Adults (35-64),M,Canada,6,443,713,Carbon Fiber,2 Years,Manufacturer B,1,TRUE
+2023,59,Adults (35-64),M,Canada,8,590,950,Steel,1 Year,Manufacturer D,4,TRUE
+2014,40,Adults (35-64),F,Germany,23,1366,2401,Carbon Fiber,2 Years,Manufacturer C,3,TRUE
+2014,40,Adults (35-64),F,Germany,25,1485,2610,Carbon Fiber,Lifetime,Manufacturer D,4,TRUE
+2017,27,Young Adults (25-34),M,United States,3,218,353,Steel,3 Years,Manufacturer B,2,FALSE
+2022,27,Young Adults (25-34),M,United States,1,73,118,Aluminum,2 Years,Manufacturer A,2,TRUE
+2023,30,Young Adults (25-34),F,United States,7,508,823,Steel,2 Years,Manufacturer B,3,TRUE
+2021,30,Young Adults (25-34),F,United States,7,508,823,Carbon Fiber,2 Years,Manufacturer B,1,TRUE
+2013,32,Young Adults (25-34),M,Canada,8,590,950,Aluminum,2 Years,Manufacturer A,2,FALSE
+2021,32,Young Adults (25-34),M,Canada,5,369,594,Plastic,3 Years,Manufacturer B,5,FALSE
+2022,33,Young Adults (25-34),M,United States,3,175,310,Plastic,1 Year,Manufacturer A,2,FALSE
+2020,33,Young Adults (25-34),M,United States,4,233,413,Steel,2 Years,Manufacturer A,2,FALSE
+2018,33,Young Adults (25-34),M,United States,4,233,413,Plastic,2 Years,Manufacturer D,1,FALSE
+2017,33,Young Adults (25-34),M,United States,6,349,619,Plastic,1 Year,Manufacturer D,4,FALSE
+2020,48,Adults (35-64),F,United States,5,363,588,Steel,Lifetime,Manufacturer C,2,FALSE
+2020,48,Adults (35-64),F,United States,2,145,235,Plastic,Lifetime,Manufacturer B,3,FALSE
+2019,48,Adults (35-64),F,United States,5,363,588,Plastic,1 Year,Manufacturer D,4,TRUE
+2023,48,Adults (35-64),F,United States,2,145,235,Plastic,3 Years,Manufacturer A,5,FALSE
+2021,46,Adults (35-64),F,United States,13,944,1529,Carbon Fiber,1 Year,Manufacturer C,1,FALSE
+2021,46,Adults (35-64),F,United States,10,726,1176,Plastic,Lifetime,Manufacturer A,5,FALSE
+2023,34,Young Adults (25-34),F,Australia,9,502,907,Plastic,2 Years,Manufacturer A,4,TRUE
+2015,34,Young Adults (25-34),F,Australia,6,335,605,Carbon Fiber,2 Years,Manufacturer A,4,FALSE
+2013,19,Youth (<25),F,United States,10,582,1032,Steel,1 Year,Manufacturer B,4,TRUE
+2017,19,Youth (<25),F,United States,7,407,722,Plastic,2 Years,Manufacturer C,5,FALSE
+2021,34,Young Adults (25-34),F,Canada,6,443,713,Plastic,3 Years,Manufacturer B,4,TRUE
+2016,34,Young Adults (25-34),F,Canada,5,369,594,Aluminum,1 Year,Manufacturer A,5,TRUE
+2019,62,Adults (35-64),F,United States,5,243,468,Aluminum,2 Years,Manufacturer B,4,FALSE
+2013,62,Adults (35-64),F,United States,7,340,655,Aluminum,1 Year,Manufacturer D,3,FALSE
+2013,45,Adults (35-64),M,Australia,7,349,664,Plastic,2 Years,Manufacturer D,4,FALSE
+2023,45,Adults (35-64),M,Australia,4,199,379,Carbon Fiber,2 Years,Manufacturer A,5,FALSE
+2018,45,Adults (35-64),M,Australia,9,502,907,Carbon Fiber,1 Year,Manufacturer B,2,FALSE
+2013,45,Adults (35-64),M,Australia,8,446,806,Carbon Fiber,3 Years,Manufacturer A,4,FALSE
+2018,41,Adults (35-64),M,Australia,10,558,1008,Carbon Fiber,2 Years,Manufacturer C,2,FALSE
+2019,41,Adults (35-64),M,Australia,9,502,907,Carbon Fiber,3 Years,Manufacturer C,3,TRUE
+2018,35,Adults (35-64),F,United States,18,1307,2117,Aluminum,2 Years,Manufacturer D,1,FALSE
+2023,35,Adults (35-64),F,United States,15,1089,1764,Plastic,Lifetime,Manufacturer D,3,TRUE
+2015,25,Young Adults (25-34),M,Germany,3,200,335,Aluminum,2 Years,Manufacturer C,4,TRUE
+2020,25,Young Adults (25-34),M,Germany,5,333,558,Steel,2 Years,Manufacturer B,2,TRUE
+2015,40,Adults (35-64),F,United States,2,97,187,Steel,2 Years,Manufacturer B,2,TRUE
+2016,40,Adults (35-64),F,United States,1,49,94,Aluminum,2 Years,Manufacturer A,5,FALSE
+2017,40,Adults (35-64),F,United States,7,340,655,Carbon Fiber,Lifetime,Manufacturer A,2,TRUE
+2017,40,Adults (35-64),F,United States,6,292,562,Carbon Fiber,Lifetime,Manufacturer A,5,FALSE
+2020,40,Adults (35-64),F,United States,1,49,94,Carbon Fiber,Lifetime,Manufacturer D,1,FALSE
+2022,40,Adults (35-64),F,United States,1,49,94,Aluminum,3 Years,Manufacturer A,4,TRUE
+2021,40,Adults (35-64),F,Canada,8,590,950,Aluminum,Lifetime,Manufacturer A,5,FALSE
+2015,40,Adults (35-64),F,Canada,10,738,1188,Carbon Fiber,Lifetime,Manufacturer B,1,FALSE
+2017,38,Adults (35-64),F,United Kingdom,3,211,346,Carbon Fiber,2 Years,Manufacturer C,2,FALSE
+2021,38,Adults (35-64),F,United Kingdom,1,70,115,Aluminum,3 Years,Manufacturer D,2,FALSE
+2017,29,Young Adults (25-34),F,France,2,133,223,Steel,2 Years,Manufacturer D,1,TRUE
+2014,29,Young Adults (25-34),F,France,2,133,223,Carbon Fiber,Lifetime,Manufacturer D,2,FALSE
+2019,29,Young Adults (25-34),M,France,1,53,98,Plastic,3 Years,Manufacturer B,1,FALSE
+2018,29,Young Adults (25-34),M,France,2,107,197,Carbon Fiber,1 Year,Manufacturer D,5,FALSE
+2015,51,Adults (35-64),M,United States,12,871,1411,Aluminum,Lifetime,Manufacturer A,5,FALSE
+2019,51,Adults (35-64),M,United States,14,1016,1646,Plastic,Lifetime,Manufacturer A,1,FALSE
+2021,44,Adults (35-64),M,Canada,5,369,594,Aluminum,1 Year,Manufacturer A,5,TRUE
+2016,44,Adults (35-64),M,Canada,7,517,832,Steel,Lifetime,Manufacturer D,5,TRUE
+2013,39,Adults (35-64),M,Canada,2,148,238,Carbon Fiber,Lifetime,Manufacturer B,5,FALSE
+2023,39,Adults (35-64),M,Canada,1,74,119,Plastic,3 Years,Manufacturer D,3,TRUE
+2015,38,Adults (35-64),F,Australia,4,223,403,Carbon Fiber,2 Years,Manufacturer D,4,FALSE
+2023,38,Adults (35-64),F,Australia,2,112,202,Carbon Fiber,Lifetime,Manufacturer B,2,FALSE
+2014,19,Youth (<25),M,United States,4,194,374,Aluminum,Lifetime,Manufacturer B,3,FALSE
+2014,19,Youth (<25),M,United States,5,243,468,Aluminum,1 Year,Manufacturer A,5,FALSE
+2013,62,Adults (35-64),F,United States,25,1815,2940,Aluminum,1 Year,Manufacturer C,1,TRUE
+2021,62,Adults (35-64),F,United States,22,1597,2587,Aluminum,1 Year,Manufacturer A,5,FALSE
+2013,37,Adults (35-64),F,United States,8,581,941,Steel,1 Year,Manufacturer D,4,FALSE
+2021,37,Adults (35-64),F,United States,8,581,941,Plastic,Lifetime,Manufacturer A,5,TRUE
+2019,37,Adults (35-64),F,United States,2,145,235,Plastic,1 Year,Manufacturer A,1,TRUE
+2021,37,Adults (35-64),F,United States,1,73,118,Plastic,2 Years,Manufacturer D,4,FALSE
+2015,43,Adults (35-64),F,Canada,5,369,594,Carbon Fiber,1 Year,Manufacturer D,5,FALSE
+2018,43,Adults (35-64),F,Canada,6,443,713,Steel,2 Years,Manufacturer D,4,TRUE
+2015,45,Adults (35-64),M,United States,5,243,468,Carbon Fiber,Lifetime,Manufacturer B,2,FALSE
+2022,45,Adults (35-64),M,United States,7,340,655,Plastic,Lifetime,Manufacturer A,2,TRUE
+2021,26,Young Adults (25-34),M,United Kingdom,23,1615,2650,Plastic,2 Years,Manufacturer C,5,FALSE
+2019,26,Young Adults (25-34),M,United Kingdom,22,1544,2534,Plastic,Lifetime,Manufacturer C,4,FALSE
+2018,26,Young Adults (25-34),M,United Kingdom,4,281,461,Steel,Lifetime,Manufacturer C,1,TRUE
+2023,26,Young Adults (25-34),M,United Kingdom,1,70,115,Plastic,1 Year,Manufacturer B,5,TRUE
+2020,35,Adults (35-64),F,Germany,2,133,223,Steel,1 Year,Manufacturer C,2,FALSE
+2019,35,Adults (35-64),F,Germany,1,67,112,Plastic,3 Years,Manufacturer A,2,FALSE
+2016,29,Young Adults (25-34),M,United Kingdom,1,70,115,Steel,3 Years,Manufacturer D,5,TRUE
+2020,29,Young Adults (25-34),M,United Kingdom,1,70,115,Aluminum,2 Years,Manufacturer A,4,TRUE
+2021,39,Adults (35-64),M,United States,9,653,1058,Carbon Fiber,1 Year,Manufacturer C,2,TRUE
+2013,39,Adults (35-64),M,United States,9,653,1058,Aluminum,2 Years,Manufacturer A,4,FALSE
+2022,39,Adults (35-64),M,United States,8,581,941,Aluminum,2 Years,Manufacturer D,2,TRUE
+2023,39,Adults (35-64),M,United States,6,436,706,Aluminum,3 Years,Manufacturer B,2,FALSE
+2013,17,Youth (<25),M,Canada,7,517,832,Carbon Fiber,2 Years,Manufacturer B,3,FALSE
+2020,17,Youth (<25),M,Canada,6,443,713,Carbon Fiber,Lifetime,Manufacturer C,2,FALSE
+2017,61,Adults (35-64),M,Canada,22,1624,2614,Carbon Fiber,1 Year,Manufacturer D,1,FALSE
+2016,61,Adults (35-64),M,Canada,22,1624,2614,Steel,2 Years,Manufacturer A,5,TRUE
+2015,54,Adults (35-64),F,Canada,7,525,840,Plastic,1 Year,Manufacturer C,5,FALSE
+2022,54,Adults (35-64),F,Canada,5,375,600,Carbon Fiber,Lifetime,Manufacturer C,4,FALSE
+2013,48,Adults (35-64),F,United Kingdom,6,421,691,Steel,2 Years,Manufacturer A,2,TRUE
+2017,48,Adults (35-64),F,United Kingdom,4,281,461,Carbon Fiber,1 Year,Manufacturer A,1,FALSE
+2023,24,Youth (<25),M,Australia,9,448,853,Steel,2 Years,Manufacturer D,4,TRUE
+2016,24,Youth (<25),M,Australia,10,498,948,Carbon Fiber,2 Years,Manufacturer A,3,FALSE
+2015,35,Adults (35-64),M,United Kingdom,19,1334,2189,Carbon Fiber,3 Years,Manufacturer B,4,FALSE
+2017,35,Adults (35-64),M,United Kingdom,16,1123,1843,Steel,Lifetime,Manufacturer D,4,FALSE
+2013,49,Adults (35-64),M,Australia,17,908,1673,Aluminum,Lifetime,Manufacturer C,2,FALSE
+2021,49,Adults (35-64),M,Australia,17,908,1673,Plastic,3 Years,Manufacturer B,3,TRUE
+2022,19,Youth (<25),M,United States,2,145,235,Carbon Fiber,2 Years,Manufacturer B,4,FALSE
+2018,19,Youth (<25),M,United States,3,218,353,Plastic,2 Years,Manufacturer D,1,FALSE
+2022,42,Adults (35-64),M,United Kingdom,6,421,691,Carbon Fiber,3 Years,Manufacturer C,1,FALSE
+2019,42,Adults (35-64),M,United Kingdom,7,491,806,Plastic,3 Years,Manufacturer A,5,FALSE
+2023,42,Adults (35-64),M,United Kingdom,23,1615,2650,Plastic,2 Years,Manufacturer D,3,TRUE
+2017,42,Adults (35-64),M,United Kingdom,24,1685,2765,Plastic,3 Years,Manufacturer A,3,TRUE
+2014,44,Adults (35-64),F,France,4,185,365,Steel,3 Years,Manufacturer B,5,FALSE
+2023,44,Adults (35-64),F,France,2,92,182,Steel,Lifetime,Manufacturer D,4,FALSE
+2022,45,Adults (35-64),F,France,10,666,1116,Steel,Lifetime,Manufacturer B,3,FALSE
+2013,45,Adults (35-64),F,France,7,466,781,Steel,Lifetime,Manufacturer C,1,FALSE
+2013,27,Young Adults (25-34),M,France,21,1121,2066,Plastic,2 Years,Manufacturer A,1,FALSE
+2020,27,Young Adults (25-34),M,France,22,1175,2165,Carbon Fiber,Lifetime,Manufacturer D,2,FALSE
+2022,22,Youth (<25),M,France,2,92,182,Carbon Fiber,2 Years,Manufacturer A,3,FALSE
+2022,22,Youth (<25),M,France,2,92,182,Steel,Lifetime,Manufacturer C,4,FALSE
+2013,23,Youth (<25),F,United Kingdom,3,211,346,Steel,Lifetime,Manufacturer D,5,FALSE
+2019,23,Youth (<25),F,United Kingdom,1,70,115,Carbon Fiber,1 Year,Manufacturer B,5,TRUE
+2019,58,Adults (35-64),M,France,4,214,394,Plastic,2 Years,Manufacturer C,4,TRUE
+2017,58,Adults (35-64),M,France,6,320,590,Plastic,1 Year,Manufacturer A,2,FALSE
+2022,18,Youth (<25),M,Australia,9,481,886,Steel,3 Years,Manufacturer A,5,TRUE
+2016,18,Youth (<25),M,Australia,10,534,984,Aluminum,3 Years,Manufacturer B,3,TRUE
+2019,23,Youth (<25),F,France,7,416,731,Aluminum,3 Years,Manufacturer C,2,TRUE
+2021,23,Youth (<25),F,France,9,535,940,Carbon Fiber,2 Years,Manufacturer A,3,TRUE
+2013,46,Adults (35-64),M,Australia,10,594,1044,Plastic,3 Years,Manufacturer D,1,FALSE
+2015,46,Adults (35-64),M,Australia,12,713,1253,Steel,Lifetime,Manufacturer A,2,FALSE
+2016,46,Adults (35-64),M,Australia,5,297,522,Aluminum,3 Years,Manufacturer C,5,TRUE
+2013,46,Adults (35-64),M,Australia,7,416,731,Steel,1 Year,Manufacturer D,2,FALSE
+2016,52,Adults (35-64),F,Canada,10,738,1188,Steel,3 Years,Manufacturer D,2,TRUE
+2017,52,Adults (35-64),F,Canada,9,664,1069,Carbon Fiber,1 Year,Manufacturer C,2,FALSE
+2013,47,Adults (35-64),F,United Kingdom,1,70,115,Aluminum,3 Years,Manufacturer C,2,FALSE
+2019,47,Adults (35-64),F,United Kingdom,1,70,115,Carbon Fiber,3 Years,Manufacturer D,3,FALSE
+2023,25,Young Adults (25-34),M,France,5,297,522,Steel,1 Year,Manufacturer B,1,TRUE
+2022,25,Young Adults (25-34),M,France,3,178,313,Steel,1 Year,Manufacturer A,4,FALSE
+2018,49,Adults (35-64),F,United Kingdom,6,421,691,Plastic,Lifetime,Manufacturer D,2,FALSE
+2019,49,Adults (35-64),F,United Kingdom,6,421,691,Carbon Fiber,1 Year,Manufacturer D,5,FALSE
+2018,32,Young Adults (25-34),M,Australia,12,598,1138,Aluminum,1 Year,Manufacturer B,2,TRUE
+2022,32,Young Adults (25-34),M,Australia,13,647,1232,Steel,2 Years,Manufacturer D,5,FALSE
+2014,36,Adults (35-64),M,United States,15,1089,1764,Aluminum,2 Years,Manufacturer C,3,TRUE
+2021,36,Adults (35-64),M,United States,16,1162,1882,Carbon Fiber,2 Years,Manufacturer A,5,FALSE
+2019,42,Adults (35-64),M,Canada,8,590,950,Carbon Fiber,1 Year,Manufacturer B,4,FALSE
+2023,42,Adults (35-64),M,Canada,9,664,1069,Aluminum,2 Years,Manufacturer C,1,FALSE
+2018,34,Young Adults (25-34),M,Germany,19,1015,1870,Steel,2 Years,Manufacturer D,5,FALSE
+2017,34,Young Adults (25-34),M,Germany,16,854,1574,Carbon Fiber,1 Year,Manufacturer B,5,FALSE
+2017,25,Young Adults (25-34),F,Canada,5,369,594,Carbon Fiber,3 Years,Manufacturer B,1,FALSE
+2021,25,Young Adults (25-34),F,Canada,6,443,713,Plastic,Lifetime,Manufacturer A,4,FALSE
+2020,39,Adults (35-64),M,France,7,374,689,Steel,3 Years,Manufacturer A,2,FALSE
+2015,39,Adults (35-64),M,France,9,481,886,Carbon Fiber,2 Years,Manufacturer A,5,TRUE
+2021,39,Adults (35-64),M,France,8,427,787,Steel,2 Years,Manufacturer A,1,FALSE
+2017,39,Adults (35-64),M,France,5,267,492,Aluminum,3 Years,Manufacturer C,3,FALSE
+2016,30,Young Adults (25-34),F,France,7,323,638,Carbon Fiber,1 Year,Manufacturer A,1,TRUE
+2022,30,Young Adults (25-34),F,France,4,185,365,Carbon Fiber,3 Years,Manufacturer A,3,FALSE
+2017,54,Adults (35-64),F,Canada,6,443,713,Aluminum,Lifetime,Manufacturer C,4,TRUE
+2023,54,Adults (35-64),F,Canada,6,443,713,Carbon Fiber,2 Years,Manufacturer A,2,FALSE
+2023,29,Young Adults (25-34),M,United States,7,340,655,Plastic,3 Years,Manufacturer C,1,TRUE
+2016,29,Young Adults (25-34),M,United States,6,292,562,Aluminum,1 Year,Manufacturer C,5,TRUE
+2023,31,Young Adults (25-34),F,United States,15,729,1404,Steel,Lifetime,Manufacturer C,4,TRUE
+2020,31,Young Adults (25-34),F,United States,12,583,1123,Steel,1 Year,Manufacturer B,1,FALSE
+2019,40,Adults (35-64),M,Canada,5,369,594,Plastic,1 Year,Manufacturer A,5,TRUE
+2019,40,Adults (35-64),M,Canada,2,148,238,Plastic,Lifetime,Manufacturer D,1,TRUE
+2020,40,Adults (35-64),M,Canada,6,443,713,Plastic,Lifetime,Manufacturer A,3,FALSE
+2020,40,Adults (35-64),M,Canada,5,369,594,Carbon Fiber,3 Years,Manufacturer D,1,FALSE
+2018,25,Young Adults (25-34),M,France,7,491,806,Carbon Fiber,3 Years,Manufacturer B,1,FALSE
+2021,25,Young Adults (25-34),M,France,7,491,806,Carbon Fiber,Lifetime,Manufacturer D,1,TRUE
+2018,22,Youth (<25),F,Germany,3,160,295,Aluminum,Lifetime,Manufacturer A,4,FALSE
+2015,22,Youth (<25),F,Germany,3,160,295,Plastic,3 Years,Manufacturer C,1,FALSE
+2018,34,Young Adults (25-34),M,Germany,5,369,594,Steel,Lifetime,Manufacturer D,5,TRUE
+2017,34,Young Adults (25-34),M,Germany,7,517,832,Steel,Lifetime,Manufacturer C,3,FALSE
+2019,33,Young Adults (25-34),M,Australia,3,149,284,Aluminum,3 Years,Manufacturer B,3,FALSE
+2022,33,Young Adults (25-34),M,Australia,1,50,95,Plastic,Lifetime,Manufacturer A,1,TRUE
+2020,62,Adults (35-64),M,United States,8,581,941,Plastic,Lifetime,Manufacturer A,4,FALSE
+2016,62,Adults (35-64),M,United States,9,653,1058,Steel,3 Years,Manufacturer B,4,TRUE
+2018,42,Adults (35-64),M,France,5,267,492,Plastic,1 Year,Manufacturer A,5,FALSE
+2014,42,Adults (35-64),M,France,5,267,492,Aluminum,3 Years,Manufacturer C,1,TRUE
+2017,47,Adults (35-64),M,United Kingdom,8,562,922,Carbon Fiber,2 Years,Manufacturer D,3,TRUE
+2022,47,Adults (35-64),M,United Kingdom,7,491,806,Steel,2 Years,Manufacturer B,4,TRUE
+2018,26,Young Adults (25-34),M,Canada,3,221,356,Plastic,Lifetime,Manufacturer C,1,FALSE
+2017,26,Young Adults (25-34),M,Canada,2,148,238,Aluminum,3 Years,Manufacturer D,4,TRUE
+2023,45,Adults (35-64),M,Germany,10,534,984,Aluminum,2 Years,Manufacturer C,4,TRUE
+2015,45,Adults (35-64),M,Germany,7,374,689,Aluminum,3 Years,Manufacturer D,3,FALSE
+2018,22,Youth (<25),F,Australia,2,119,209,Steel,2 Years,Manufacturer A,2,TRUE
+2023,22,Youth (<25),F,Australia,1,59,104,Aluminum,3 Years,Manufacturer A,5,FALSE
+2018,57,Adults (35-64),M,United States,9,437,842,Steel,3 Years,Manufacturer B,5,FALSE
+2018,57,Adults (35-64),M,United States,7,340,655,Plastic,2 Years,Manufacturer C,3,FALSE
+2014,49,Adults (35-64),F,United States,2,145,235,Plastic,2 Years,Manufacturer D,4,TRUE
+2018,49,Adults (35-64),F,United States,3,218,353,Carbon Fiber,3 Years,Manufacturer A,1,FALSE
+2022,61,Adults (35-64),M,United States,2,97,187,Carbon Fiber,1 Year,Manufacturer A,4,TRUE
+2019,61,Adults (35-64),M,United States,2,97,187,Carbon Fiber,3 Years,Manufacturer A,3,TRUE
+2019,40,Adults (35-64),M,United States,6,436,706,Carbon Fiber,3 Years,Manufacturer A,5,FALSE
+2021,40,Adults (35-64),M,United States,5,363,588,Steel,Lifetime,Manufacturer A,4,FALSE
+2017,40,Adults (35-64),M,United States,3,218,353,Aluminum,1 Year,Manufacturer A,5,TRUE
+2015,40,Adults (35-64),M,United States,4,290,470,Aluminum,2 Years,Manufacturer D,1,FALSE
+2022,38,Adults (35-64),M,United States,2,145,235,Plastic,2 Years,Manufacturer D,5,TRUE
+2013,38,Adults (35-64),M,United States,1,73,118,Plastic,Lifetime,Manufacturer A,5,FALSE
+2021,38,Adults (35-64),M,United States,4,290,470,Steel,2 Years,Manufacturer A,2,FALSE
+2018,38,Adults (35-64),M,United States,1,73,118,Carbon Fiber,Lifetime,Manufacturer D,2,FALSE
+2016,56,Adults (35-64),M,Germany,22,1624,2614,Steel,2 Years,Manufacturer D,2,FALSE
+2016,56,Adults (35-64),M,Germany,20,1476,2376,Plastic,2 Years,Manufacturer A,5,FALSE
+2017,36,Adults (35-64),M,United States,13,632,1217,Steel,1 Year,Manufacturer D,3,TRUE
+2019,36,Adults (35-64),M,United States,13,632,1217,Plastic,3 Years,Manufacturer B,5,TRUE
+2023,37,Adults (35-64),F,United States,6,349,619,Steel,2 Years,Manufacturer B,3,TRUE
+2022,37,Adults (35-64),F,United States,6,349,619,Carbon Fiber,3 Years,Manufacturer C,3,TRUE
+2016,43,Adults (35-64),M,United States,6,349,619,Carbon Fiber,1 Year,Manufacturer D,2,TRUE
+2013,43,Adults (35-64),M,United States,6,349,619,Plastic,Lifetime,Manufacturer C,4,FALSE
+2015,44,Adults (35-64),F,United Kingdom,2,140,230,Carbon Fiber,1 Year,Manufacturer A,1,FALSE
+2021,44,Adults (35-64),F,United Kingdom,1,70,115,Steel,3 Years,Manufacturer C,2,FALSE
+2017,45,Adults (35-64),F,United Kingdom,5,351,576,Carbon Fiber,Lifetime,Manufacturer C,2,FALSE
+2015,45,Adults (35-64),F,United Kingdom,6,421,691,Aluminum,2 Years,Manufacturer B,4,FALSE
+2016,18,Youth (<25),F,United Kingdom,4,281,461,Carbon Fiber,1 Year,Manufacturer D,1,TRUE
+2019,18,Youth (<25),F,United Kingdom,1,70,115,Steel,Lifetime,Manufacturer C,5,TRUE
+2021,18,Youth (<25),F,United Kingdom,9,632,1037,Plastic,3 Years,Manufacturer B,5,TRUE
+2015,18,Youth (<25),F,United Kingdom,9,632,1037,Plastic,2 Years,Manufacturer B,2,TRUE
+2013,18,Youth (<25),F,United Kingdom,6,421,691,Aluminum,1 Year,Manufacturer C,1,FALSE
+2023,18,Youth (<25),F,United Kingdom,6,421,691,Aluminum,Lifetime,Manufacturer C,2,TRUE
+2013,45,Adults (35-64),M,Germany,7,416,731,Carbon Fiber,Lifetime,Manufacturer C,3,FALSE
+2016,45,Adults (35-64),M,Germany,7,416,731,Aluminum,3 Years,Manufacturer C,2,TRUE
+2017,59,Adults (35-64),M,Australia,2,107,197,Aluminum,3 Years,Manufacturer B,2,TRUE
+2020,59,Adults (35-64),M,Australia,1,53,98,Steel,1 Year,Manufacturer B,5,FALSE
+2018,27,Young Adults (25-34),M,United Kingdom,7,491,806,Carbon Fiber,3 Years,Manufacturer C,5,FALSE
+2020,27,Young Adults (25-34),M,United Kingdom,9,632,1037,Plastic,2 Years,Manufacturer D,5,TRUE
+2014,39,Adults (35-64),F,Australia,8,398,758,Steel,3 Years,Manufacturer A,3,TRUE
+2016,39,Adults (35-64),F,Australia,7,349,664,Carbon Fiber,3 Years,Manufacturer C,5,TRUE
+2015,32,Young Adults (25-34),M,United States,1,58,103,Plastic,3 Years,Manufacturer A,1,FALSE
+2021,32,Young Adults (25-34),M,United States,2,116,206,Steel,Lifetime,Manufacturer D,4,TRUE
+2019,35,Adults (35-64),M,United States,3,218,353,Aluminum,2 Years,Manufacturer D,1,TRUE
+2017,35,Adults (35-64),M,United States,5,363,588,Aluminum,Lifetime,Manufacturer A,1,FALSE
+2014,17,Youth (<25),M,United States,7,340,655,Steel,2 Years,Manufacturer D,5,TRUE
+2022,17,Youth (<25),M,United States,6,292,562,Steel,1 Year,Manufacturer D,4,FALSE
+2015,40,Adults (35-64),F,United States,7,508,823,Aluminum,1 Year,Manufacturer A,4,FALSE
+2018,40,Adults (35-64),F,United States,5,363,588,Steel,1 Year,Manufacturer A,4,FALSE
+2017,40,Adults (35-64),F,United States,6,436,706,Aluminum,2 Years,Manufacturer D,3,TRUE
+2015,40,Adults (35-64),F,United States,8,581,941,Carbon Fiber,1 Year,Manufacturer C,5,FALSE
+2019,40,Adults (35-64),M,United States,10,486,936,Plastic,1 Year,Manufacturer B,4,TRUE
+2021,40,Adults (35-64),M,United States,7,340,655,Steel,1 Year,Manufacturer C,3,TRUE
+2016,40,Adults (35-64),M,United States,27,1312,2527,Carbon Fiber,3 Years,Manufacturer B,2,FALSE
+2016,40,Adults (35-64),M,United States,26,1264,2434,Plastic,3 Years,Manufacturer B,2,TRUE
+2020,43,Adults (35-64),M,United States,4,290,470,Aluminum,1 Year,Manufacturer C,3,TRUE
+2020,43,Adults (35-64),M,United States,5,363,588,Aluminum,3 Years,Manufacturer D,3,FALSE
+2018,48,Adults (35-64),M,United States,6,349,619,Plastic,2 Years,Manufacturer B,5,FALSE
+2018,48,Adults (35-64),M,United States,8,466,826,Plastic,1 Year,Manufacturer A,5,TRUE
+2021,48,Adults (35-64),M,United States,19,1106,1961,Aluminum,2 Years,Manufacturer B,2,TRUE
+2017,48,Adults (35-64),M,United States,18,1048,1858,Steel,1 Year,Manufacturer A,4,FALSE
+2019,41,Adults (35-64),M,United States,6,436,706,Carbon Fiber,Lifetime,Manufacturer C,2,FALSE
+2023,41,Adults (35-64),M,United States,6,436,706,Steel,1 Year,Manufacturer B,4,FALSE
+2017,41,Adults (35-64),M,United States,2,145,235,Plastic,3 Years,Manufacturer D,4,FALSE
+2023,41,Adults (35-64),M,United States,1,73,118,Plastic,1 Year,Manufacturer C,5,TRUE
+2020,41,Adults (35-64),M,United States,3,218,353,Carbon Fiber,1 Year,Manufacturer C,1,TRUE
+2014,41,Adults (35-64),M,United States,4,290,470,Plastic,1 Year,Manufacturer B,1,TRUE
+2019,41,Adults (35-64),M,United States,5,363,588,Carbon Fiber,1 Year,Manufacturer C,3,TRUE
+2018,41,Adults (35-64),M,United States,3,218,353,Carbon Fiber,1 Year,Manufacturer D,5,TRUE
+2018,34,Young Adults (25-34),F,United States,9,524,929,Aluminum,3 Years,Manufacturer B,4,FALSE
+2013,34,Young Adults (25-34),F,United States,7,407,722,Steel,1 Year,Manufacturer A,1,FALSE
+2014,34,Young Adults (25-34),F,United States,4,233,413,Aluminum,2 Years,Manufacturer D,4,TRUE
+2014,34,Young Adults (25-34),F,United States,2,116,206,Plastic,2 Years,Manufacturer D,1,TRUE
+2019,32,Young Adults (25-34),M,Australia,4,238,418,Carbon Fiber,3 Years,Manufacturer D,1,TRUE
+2021,32,Young Adults (25-34),M,Australia,4,238,418,Aluminum,2 Years,Manufacturer A,1,TRUE
+2013,18,Youth (<25),F,United States,4,290,470,Aluminum,3 Years,Manufacturer D,5,FALSE
+2019,18,Youth (<25),F,United States,3,218,353,Plastic,Lifetime,Manufacturer B,2,FALSE
+2022,18,Youth (<25),F,United States,3,218,353,Carbon Fiber,3 Years,Manufacturer D,4,TRUE
+2018,18,Youth (<25),F,United States,2,145,235,Plastic,1 Year,Manufacturer B,5,FALSE
+2023,24,Youth (<25),F,United States,10,968,1558,Plastic,Lifetime,Manufacturer C,5,FALSE
+2019,24,Youth (<25),F,United States,8,775,1247,Plastic,3 Years,Manufacturer C,5,TRUE
+2023,24,Youth (<25),F,United States,7,678,1091,Carbon Fiber,Lifetime,Manufacturer D,5,FALSE
+2017,24,Youth (<25),F,United States,9,871,1402,Aluminum,2 Years,Manufacturer B,5,TRUE
+2014,40,Adults (35-64),F,United States,6,581,935,Aluminum,3 Years,Manufacturer D,3,FALSE
+2019,40,Adults (35-64),F,United States,7,678,1091,Plastic,1 Year,Manufacturer D,4,TRUE
+2021,35,Adults (35-64),F,Australia,4,298,534,Steel,Lifetime,Manufacturer A,5,FALSE
+2013,35,Adults (35-64),F,Australia,2,149,267,Plastic,3 Years,Manufacturer D,4,TRUE
+2019,53,Adults (35-64),F,Canada,1,98,157,Plastic,1 Year,Manufacturer B,3,FALSE
+2022,53,Adults (35-64),F,Canada,1,98,157,Steel,2 Years,Manufacturer A,3,TRUE
+2020,51,Adults (35-64),F,United States,6,390,744,Carbon Fiber,3 Years,Manufacturer A,4,TRUE
+2015,51,Adults (35-64),F,United States,3,195,372,Steel,2 Years,Manufacturer C,1,TRUE
+2020,50,Adults (35-64),M,Canada,5,492,787,Carbon Fiber,3 Years,Manufacturer B,2,FALSE
+2014,50,Adults (35-64),M,Canada,7,689,1102,Aluminum,Lifetime,Manufacturer C,1,TRUE
+2023,50,Adults (35-64),M,Canada,9,886,1417,Aluminum,1 Year,Manufacturer D,1,FALSE
+2015,50,Adults (35-64),M,Canada,9,886,1417,Aluminum,3 Years,Manufacturer A,1,FALSE
+2013,47,Adults (35-64),F,Canada,1,98,157,Aluminum,Lifetime,Manufacturer D,5,TRUE
+2013,47,Adults (35-64),F,Canada,2,197,315,Plastic,3 Years,Manufacturer C,3,FALSE
+2018,47,Adults (35-64),F,Canada,5,492,787,Carbon Fiber,1 Year,Manufacturer B,1,TRUE
+2016,47,Adults (35-64),F,Canada,5,492,787,Steel,2 Years,Manufacturer D,3,TRUE
+2019,40,Adults (35-64),F,France,6,562,916,Aluminum,2 Years,Manufacturer C,4,FALSE
+2018,40,Adults (35-64),F,France,5,468,763,Steel,1 Year,Manufacturer B,2,TRUE
+2020,41,Adults (35-64),M,United States,10,968,1558,Aluminum,3 Years,Manufacturer C,4,FALSE
+2020,41,Adults (35-64),M,United States,11,1065,1714,Plastic,1 Year,Manufacturer B,4,TRUE
+2016,37,Adults (35-64),M,Canada,8,787,1259,Plastic,1 Year,Manufacturer C,5,FALSE
+2022,37,Adults (35-64),M,Canada,5,492,787,Steel,1 Year,Manufacturer C,2,FALSE
+2015,59,Adults (35-64),M,United States,3,290,467,Aluminum,Lifetime,Manufacturer A,4,FALSE
+2016,59,Adults (35-64),M,United States,5,484,779,Carbon Fiber,1 Year,Manufacturer A,4,TRUE
+2018,52,Adults (35-64),M,United Kingdom,5,468,763,Carbon Fiber,1 Year,Manufacturer B,2,FALSE
+2013,52,Adults (35-64),M,United Kingdom,4,375,611,Steel,Lifetime,Manufacturer C,2,FALSE
+2017,44,Adults (35-64),F,United States,10,968,1558,Steel,Lifetime,Manufacturer D,4,FALSE
+2016,44,Adults (35-64),F,United States,9,871,1402,Aluminum,1 Year,Manufacturer A,2,FALSE
+2022,30,Young Adults (25-34),F,France,5,333,628,Plastic,1 Year,Manufacturer A,4,TRUE
+2018,30,Young Adults (25-34),F,France,2,133,251,Carbon Fiber,2 Years,Manufacturer B,4,TRUE
+2018,33,Young Adults (25-34),M,France,4,324,560,Plastic,1 Year,Manufacturer B,5,FALSE
+2023,33,Young Adults (25-34),M,France,4,324,560,Carbon Fiber,3 Years,Manufacturer B,1,FALSE
+2022,38,Adults (35-64),F,Canada,6,590,944,Aluminum,1 Year,Manufacturer B,4,FALSE
+2014,38,Adults (35-64),F,Canada,8,787,1259,Aluminum,2 Years,Manufacturer A,3,TRUE
+2020,38,Adults (35-64),F,Canada,10,984,1574,Steel,3 Years,Manufacturer A,1,FALSE
+2020,38,Adults (35-64),F,Canada,11,1083,1732,Steel,2 Years,Manufacturer A,1,TRUE
+2019,38,Adults (35-64),F,United States,2,194,312,Steel,3 Years,Manufacturer C,1,FALSE
+2016,38,Adults (35-64),F,United States,1,97,156,Plastic,3 Years,Manufacturer D,5,TRUE
+2020,38,Adults (35-64),F,United States,6,581,935,Steel,2 Years,Manufacturer A,4,FALSE
+2018,38,Adults (35-64),F,United States,4,387,623,Steel,3 Years,Manufacturer D,5,TRUE
+2014,31,Young Adults (25-34),F,Australia,9,671,1202,Steel,1 Year,Manufacturer B,4,FALSE
+2021,31,Young Adults (25-34),F,Australia,10,746,1336,Aluminum,Lifetime,Manufacturer A,5,FALSE
+2018,31,Young Adults (25-34),F,Australia,7,522,935,Carbon Fiber,1 Year,Manufacturer D,5,TRUE
+2021,31,Young Adults (25-34),F,Australia,6,447,801,Steel,Lifetime,Manufacturer C,3,TRUE
+2018,31,Young Adults (25-34),F,Australia,1,75,134,Carbon Fiber,Lifetime,Manufacturer A,5,FALSE
+2016,31,Young Adults (25-34),F,Australia,1,75,134,Steel,3 Years,Manufacturer D,2,FALSE
+2018,24,Youth (<25),M,United States,8,775,1247,Carbon Fiber,1 Year,Manufacturer A,3,FALSE
+2013,24,Youth (<25),M,United States,5,484,779,Plastic,3 Years,Manufacturer D,5,FALSE
+2019,25,Young Adults (25-34),F,United States,4,387,623,Aluminum,2 Years,Manufacturer D,1,FALSE
+2018,25,Young Adults (25-34),F,United States,4,387,623,Aluminum,Lifetime,Manufacturer D,2,TRUE
+2013,28,Young Adults (25-34),M,Canada,1,98,157,Aluminum,3 Years,Manufacturer B,2,FALSE
+2013,28,Young Adults (25-34),M,Canada,1,98,157,Aluminum,Lifetime,Manufacturer A,2,TRUE
+2021,28,Young Adults (25-34),F,Canada,1,98,157,Carbon Fiber,3 Years,Manufacturer B,3,FALSE
+2018,28,Young Adults (25-34),F,Canada,1,98,157,Plastic,3 Years,Manufacturer A,5,FALSE
+2019,33,Young Adults (25-34),F,United States,3,290,467,Aluminum,3 Years,Manufacturer A,5,FALSE
+2015,33,Young Adults (25-34),F,United States,4,387,623,Aluminum,Lifetime,Manufacturer B,1,TRUE
+2023,36,Adults (35-64),F,United States,2,130,248,Carbon Fiber,3 Years,Manufacturer D,1,TRUE
+2019,36,Adults (35-64),F,United States,4,260,496,Carbon Fiber,2 Years,Manufacturer B,2,FALSE
+2023,30,Young Adults (25-34),F,Australia,2,133,251,Aluminum,3 Years,Manufacturer B,1,FALSE
+2022,30,Young Adults (25-34),F,Australia,1,67,126,Aluminum,3 Years,Manufacturer D,3,FALSE
+2020,34,Young Adults (25-34),F,United States,10,650,1240,Steel,3 Years,Manufacturer C,5,TRUE
+2021,34,Young Adults (25-34),F,United States,9,585,1116,Plastic,3 Years,Manufacturer B,2,TRUE
+2023,36,Adults (35-64),F,United Kingdom,8,749,1221,Plastic,2 Years,Manufacturer C,1,TRUE
+2019,36,Adults (35-64),F,United Kingdom,6,562,916,Plastic,2 Years,Manufacturer B,3,TRUE
+2020,24,Youth (<25),M,Australia,4,317,553,Carbon Fiber,3 Years,Manufacturer C,3,FALSE
+2016,24,Youth (<25),M,Australia,1,79,138,Plastic,2 Years,Manufacturer D,1,TRUE
+2013,26,Young Adults (25-34),F,Australia,1,75,134,Steel,3 Years,Manufacturer B,5,FALSE
+2021,26,Young Adults (25-34),F,Australia,1,75,134,Aluminum,3 Years,Manufacturer D,1,FALSE
+2019,33,Young Adults (25-34),F,United Kingdom,4,375,611,Plastic,2 Years,Manufacturer A,2,FALSE
+2021,33,Young Adults (25-34),F,United Kingdom,3,281,458,Plastic,3 Years,Manufacturer D,1,TRUE
+2016,19,Youth (<25),M,United Kingdom,9,843,1374,Carbon Fiber,3 Years,Manufacturer D,3,TRUE
+2023,19,Youth (<25),M,United Kingdom,10,936,1526,Plastic,2 Years,Manufacturer A,1,TRUE
+2016,57,Adults (35-64),M,United States,9,585,1116,Carbon Fiber,2 Years,Manufacturer B,5,FALSE
+2015,57,Adults (35-64),M,United States,9,585,1116,Aluminum,Lifetime,Manufacturer A,4,TRUE
+2014,23,Youth (<25),F,Australia,1,79,138,Aluminum,1 Year,Manufacturer A,1,FALSE
+2022,23,Youth (<25),F,Australia,3,238,415,Steel,Lifetime,Manufacturer C,5,TRUE
+2018,24,Youth (<25),F,Australia,1,79,138,Carbon Fiber,3 Years,Manufacturer A,5,TRUE
+2021,24,Youth (<25),F,Australia,1,79,138,Carbon Fiber,Lifetime,Manufacturer B,3,TRUE
+2013,25,Young Adults (25-34),M,Australia,5,397,692,Aluminum,3 Years,Manufacturer C,5,TRUE
+2021,25,Young Adults (25-34),M,Australia,2,159,277,Carbon Fiber,3 Years,Manufacturer C,5,FALSE
+2019,25,Young Adults (25-34),M,Australia,10,714,1304,Carbon Fiber,1 Year,Manufacturer C,5,TRUE
+2020,25,Young Adults (25-34),M,Australia,10,714,1304,Carbon Fiber,Lifetime,Manufacturer C,5,FALSE
+2022,26,Young Adults (25-34),M,Australia,9,671,1202,Steel,Lifetime,Manufacturer D,2,TRUE
+2022,26,Young Adults (25-34),M,Australia,10,746,1336,Carbon Fiber,3 Years,Manufacturer C,2,FALSE
+2014,26,Young Adults (25-34),F,Australia,8,635,1107,Steel,1 Year,Manufacturer C,3,TRUE
+2020,26,Young Adults (25-34),F,Australia,9,714,1245,Steel,1 Year,Manufacturer B,1,FALSE
+2013,26,Young Adults (25-34),F,Australia,6,476,830,Steel,Lifetime,Manufacturer D,5,TRUE
+2019,26,Young Adults (25-34),F,Australia,4,317,553,Aluminum,1 Year,Manufacturer A,1,TRUE
+2016,37,Adults (35-64),F,Canada,2,197,315,Plastic,3 Years,Manufacturer B,1,TRUE
+2013,37,Adults (35-64),F,Canada,2,197,315,Aluminum,1 Year,Manufacturer C,3,FALSE
+2017,30,Young Adults (25-34),M,Australia,8,635,1107,Aluminum,3 Years,Manufacturer B,5,TRUE
+2023,30,Young Adults (25-34),M,Australia,9,714,1245,Steel,Lifetime,Manufacturer B,5,TRUE
+2023,30,Young Adults (25-34),M,Australia,5,397,692,Carbon Fiber,1 Year,Manufacturer B,4,FALSE
+2013,30,Young Adults (25-34),M,Australia,4,317,553,Aluminum,3 Years,Manufacturer C,1,FALSE
+2017,32,Young Adults (25-34),F,Australia,7,555,968,Carbon Fiber,3 Years,Manufacturer C,1,FALSE
+2019,32,Young Adults (25-34),F,Australia,9,714,1245,Carbon Fiber,1 Year,Manufacturer C,2,TRUE
+2023,31,Young Adults (25-34),M,Australia,3,238,415,Aluminum,1 Year,Manufacturer A,4,TRUE
+2016,31,Young Adults (25-34),M,Australia,3,238,415,Carbon Fiber,1 Year,Manufacturer C,2,TRUE
+2014,44,Adults (35-64),F,Australia,3,214,391,Plastic,1 Year,Manufacturer A,2,TRUE
+2022,44,Adults (35-64),F,Australia,2,143,261,Steel,1 Year,Manufacturer D,2,FALSE
+2013,51,Adults (35-64),F,United States,10,968,1558,Carbon Fiber,2 Years,Manufacturer C,3,TRUE
+2019,51,Adults (35-64),F,United States,10,968,1558,Aluminum,1 Year,Manufacturer A,3,FALSE
+2020,64,Adults (35-64),F,United States,8,775,1247,Steel,1 Year,Manufacturer D,2,FALSE
+2021,64,Adults (35-64),F,United States,9,871,1402,Aluminum,1 Year,Manufacturer D,4,TRUE
+2018,55,Adults (35-64),F,United States,1,65,124,Carbon Fiber,3 Years,Manufacturer D,1,FALSE
+2019,55,Adults (35-64),F,United States,1,65,124,Plastic,1 Year,Manufacturer C,4,FALSE
+2014,52,Adults (35-64),M,United States,9,871,1402,Aluminum,2 Years,Manufacturer D,5,TRUE
+2014,52,Adults (35-64),M,United States,11,1065,1714,Aluminum,3 Years,Manufacturer C,3,FALSE
+2017,43,Adults (35-64),M,United States,10,968,1558,Steel,Lifetime,Manufacturer D,1,FALSE
+2018,43,Adults (35-64),M,United States,9,871,1402,Carbon Fiber,2 Years,Manufacturer C,1,TRUE
+2018,54,Adults (35-64),F,United Kingdom,2,187,305,Plastic,Lifetime,Manufacturer A,5,FALSE
+2013,54,Adults (35-64),F,United Kingdom,4,375,611,Aluminum,2 Years,Manufacturer A,5,FALSE
+2017,24,Youth (<25),M,United Kingdom,7,655,1068,Steel,Lifetime,Manufacturer A,2,TRUE
+2014,24,Youth (<25),M,United Kingdom,8,749,1221,Aluminum,3 Years,Manufacturer A,3,TRUE
+2019,63,Adults (35-64),F,Germany,3,214,391,Steel,1 Year,Manufacturer D,3,TRUE
+2015,63,Adults (35-64),F,Germany,2,143,261,Aluminum,2 Years,Manufacturer B,4,FALSE
+2014,33,Young Adults (25-34),M,Germany,10,889,1479,Plastic,Lifetime,Manufacturer C,2,TRUE
+2016,33,Young Adults (25-34),M,Germany,11,978,1627,Aluminum,1 Year,Manufacturer A,2,TRUE
+2019,20,Youth (<25),F,Germany,2,143,261,Plastic,3 Years,Manufacturer C,2,TRUE
+2013,20,Youth (<25),F,Germany,3,214,391,Steel,1 Year,Manufacturer A,2,TRUE
+2023,20,Youth (<25),F,United Kingdom,6,562,916,Steel,3 Years,Manufacturer C,3,FALSE
+2019,20,Youth (<25),F,United Kingdom,4,375,611,Plastic,1 Year,Manufacturer C,3,TRUE
+2015,42,Adults (35-64),M,Australia,6,476,830,Aluminum,1 Year,Manufacturer D,2,FALSE
+2021,42,Adults (35-64),M,Australia,3,238,415,Plastic,2 Years,Manufacturer C,4,TRUE
+2023,37,Adults (35-64),M,Australia,8,533,1005,Plastic,2 Years,Manufacturer D,1,FALSE
+2019,37,Adults (35-64),M,Australia,7,466,879,Plastic,1 Year,Manufacturer A,1,TRUE
+2021,60,Adults (35-64),M,Australia,2,149,267,Plastic,1 Year,Manufacturer C,4,FALSE
+2023,60,Adults (35-64),M,Australia,1,75,134,Plastic,Lifetime,Manufacturer B,2,FALSE
+2021,58,Adults (35-64),M,Australia,10,793,1383,Aluminum,1 Year,Manufacturer D,3,FALSE
+2017,58,Adults (35-64),M,Australia,8,635,1107,Carbon Fiber,Lifetime,Manufacturer A,1,TRUE
+2020,28,Young Adults (25-34),M,United Kingdom,10,936,1526,Plastic,Lifetime,Manufacturer A,5,TRUE
+2013,28,Young Adults (25-34),M,United Kingdom,10,936,1526,Carbon Fiber,1 Year,Manufacturer A,5,TRUE
+2013,28,Young Adults (25-34),F,Germany,5,492,787,Plastic,1 Year,Manufacturer B,4,FALSE
+2018,28,Young Adults (25-34),F,Germany,4,394,630,Carbon Fiber,1 Year,Manufacturer D,2,TRUE
+2019,22,Youth (<25),F,Australia,5,397,692,Plastic,2 Years,Manufacturer A,1,TRUE
+2022,22,Youth (<25),F,Australia,7,555,968,Carbon Fiber,3 Years,Manufacturer A,2,FALSE
+2021,30,Young Adults (25-34),M,Australia,3,200,377,Carbon Fiber,2 Years,Manufacturer A,1,TRUE
+2023,30,Young Adults (25-34),M,Australia,4,266,502,Aluminum,3 Years,Manufacturer B,4,FALSE
+2016,36,Adults (35-64),M,Australia,7,555,968,Plastic,3 Years,Manufacturer C,4,FALSE
+2016,36,Adults (35-64),M,Australia,6,476,830,Plastic,1 Year,Manufacturer D,5,TRUE
+2019,36,Adults (35-64),M,Australia,10,793,1383,Steel,Lifetime,Manufacturer B,2,FALSE
+2016,36,Adults (35-64),M,Australia,10,793,1383,Steel,1 Year,Manufacturer C,5,TRUE
+2014,37,Adults (35-64),F,Australia,8,596,1068,Carbon Fiber,3 Years,Manufacturer B,2,TRUE
+2021,37,Adults (35-64),F,Australia,7,522,935,Aluminum,Lifetime,Manufacturer C,5,TRUE
+2015,45,Adults (35-64),F,United States,5,389,684,Plastic,2 Years,Manufacturer C,3,TRUE
+2015,45,Adults (35-64),F,United States,2,155,273,Aluminum,Lifetime,Manufacturer B,3,FALSE
+2017,33,Young Adults (25-34),M,United States,3,290,467,Carbon Fiber,3 Years,Manufacturer D,3,FALSE
+2015,33,Young Adults (25-34),M,United States,3,290,467,Aluminum,3 Years,Manufacturer C,3,FALSE
+2021,36,Adults (35-64),F,United States,7,678,1091,Aluminum,2 Years,Manufacturer B,1,TRUE
+2014,36,Adults (35-64),F,United States,5,484,779,Steel,Lifetime,Manufacturer A,3,FALSE
+2019,35,Adults (35-64),F,United Kingdom,1,94,153,Carbon Fiber,1 Year,Manufacturer A,4,FALSE
+2018,35,Adults (35-64),F,United Kingdom,1,94,153,Steel,1 Year,Manufacturer B,4,FALSE
+2018,26,Young Adults (25-34),F,Canada,5,492,787,Plastic,3 Years,Manufacturer D,1,FALSE
+2022,26,Young Adults (25-34),F,Canada,6,590,944,Plastic,2 Years,Manufacturer C,3,FALSE
+2021,28,Young Adults (25-34),F,United States,1,65,124,Aluminum,2 Years,Manufacturer B,3,TRUE
+2015,28,Young Adults (25-34),F,United States,2,130,248,Plastic,3 Years,Manufacturer A,3,TRUE
+2022,28,Young Adults (25-34),F,United States,1,65,124,Steel,3 Years,Manufacturer A,5,TRUE
+2019,28,Young Adults (25-34),F,United States,1,65,124,Steel,1 Year,Manufacturer A,2,FALSE
+2018,33,Young Adults (25-34),F,Canada,2,197,315,Aluminum,1 Year,Manufacturer A,5,TRUE
+2018,33,Young Adults (25-34),F,Canada,1,98,157,Plastic,3 Years,Manufacturer D,2,TRUE
+2016,30,Young Adults (25-34),F,Australia,1,75,134,Plastic,Lifetime,Manufacturer C,3,FALSE
+2021,30,Young Adults (25-34),F,Australia,1,75,134,Aluminum,1 Year,Manufacturer C,3,TRUE
+2014,44,Adults (35-64),M,United States,4,387,623,Carbon Fiber,Lifetime,Manufacturer A,5,FALSE
+2015,44,Adults (35-64),M,United States,1,97,156,Carbon Fiber,2 Years,Manufacturer C,5,TRUE
+2017,46,Adults (35-64),M,Australia,10,793,1383,Plastic,3 Years,Manufacturer B,2,TRUE
+2020,46,Adults (35-64),M,Australia,10,793,1383,Carbon Fiber,Lifetime,Manufacturer D,4,TRUE
+2023,41,Adults (35-64),M,Canada,8,787,1259,Aluminum,1 Year,Manufacturer C,2,FALSE
+2021,41,Adults (35-64),M,Canada,10,984,1574,Aluminum,Lifetime,Manufacturer D,5,FALSE
+2015,41,Adults (35-64),M,United States,6,390,744,Carbon Fiber,3 Years,Manufacturer B,5,FALSE
+2023,41,Adults (35-64),M,United States,4,260,496,Carbon Fiber,3 Years,Manufacturer C,1,TRUE
+2022,31,Young Adults (25-34),F,United Kingdom,5,468,763,Plastic,2 Years,Manufacturer D,5,FALSE
+2015,31,Young Adults (25-34),F,United Kingdom,4,375,611,Plastic,1 Year,Manufacturer A,1,TRUE
+2017,46,Adults (35-64),F,Australia,6,476,830,Steel,3 Years,Manufacturer D,4,TRUE
+2021,46,Adults (35-64),F,Australia,5,397,692,Plastic,1 Year,Manufacturer A,2,TRUE
+2014,44,Adults (35-64),M,Germany,5,397,692,Aluminum,2 Years,Manufacturer A,2,FALSE
+2022,44,Adults (35-64),M,Germany,3,238,415,Plastic,Lifetime,Manufacturer A,1,FALSE
+2014,49,Adults (35-64),M,United States,10,968,1558,Steel,3 Years,Manufacturer D,2,TRUE
+2013,49,Adults (35-64),M,United States,7,678,1091,Plastic,Lifetime,Manufacturer D,5,TRUE
+2020,39,Adults (35-64),F,United Kingdom,9,843,1374,Plastic,2 Years,Manufacturer B,3,TRUE
+2014,39,Adults (35-64),F,United Kingdom,6,562,916,Plastic,1 Year,Manufacturer A,1,TRUE
+2013,39,Adults (35-64),F,United Kingdom,3,281,458,Steel,2 Years,Manufacturer D,2,FALSE
+2018,39,Adults (35-64),F,United Kingdom,2,187,305,Aluminum,1 Year,Manufacturer C,1,TRUE
+2021,27,Young Adults (25-34),F,Canada,1,98,157,Plastic,3 Years,Manufacturer D,1,FALSE
+2016,27,Young Adults (25-34),F,Canada,3,295,472,Carbon Fiber,2 Years,Manufacturer B,3,TRUE
+2018,29,Young Adults (25-34),M,Australia,7,466,879,Carbon Fiber,1 Year,Manufacturer A,5,TRUE
+2017,29,Young Adults (25-34),M,Australia,6,400,754,Steel,2 Years,Manufacturer C,1,TRUE
+2013,44,Adults (35-64),M,France,5,357,652,Plastic,1 Year,Manufacturer D,2,FALSE
+2019,44,Adults (35-64),M,France,4,286,522,Carbon Fiber,2 Years,Manufacturer A,4,FALSE
+2017,56,Adults (35-64),F,United States,3,290,467,Aluminum,Lifetime,Manufacturer D,1,TRUE
+2015,56,Adults (35-64),F,United States,3,290,467,Steel,1 Year,Manufacturer C,1,TRUE
+2015,58,Adults (35-64),M,Australia,10,666,1256,Plastic,3 Years,Manufacturer C,3,TRUE
+2016,58,Adults (35-64),M,Australia,10,666,1256,Aluminum,1 Year,Manufacturer B,5,TRUE
+2013,46,Adults (35-64),F,Canada,7,689,1102,Steel,1 Year,Manufacturer C,4,TRUE
+2014,46,Adults (35-64),F,Canada,7,689,1102,Carbon Fiber,1 Year,Manufacturer B,2,TRUE
+2019,34,Young Adults (25-34),M,United States,6,581,935,Carbon Fiber,1 Year,Manufacturer A,4,TRUE
+2020,34,Young Adults (25-34),M,United States,6,581,935,Aluminum,2 Years,Manufacturer D,2,TRUE
+2013,34,Young Adults (25-34),M,United States,1,97,156,Plastic,3 Years,Manufacturer D,5,TRUE
+2019,34,Young Adults (25-34),M,United States,1,97,156,Steel,3 Years,Manufacturer D,2,TRUE
+2017,37,Adults (35-64),F,United States,3,195,372,Carbon Fiber,3 Years,Manufacturer B,3,TRUE
+2023,37,Adults (35-64),F,United States,1,65,124,Steel,3 Years,Manufacturer B,3,FALSE
+2022,37,Adults (35-64),F,United States,7,455,868,Steel,3 Years,Manufacturer D,3,TRUE
+2021,37,Adults (35-64),F,United States,6,390,744,Plastic,2 Years,Manufacturer A,3,FALSE
+2022,59,Adults (35-64),M,United States,7,455,868,Steel,Lifetime,Manufacturer A,4,FALSE
+2021,59,Adults (35-64),M,United States,4,260,496,Plastic,1 Year,Manufacturer A,5,TRUE
+2016,26,Young Adults (25-34),M,United States,6,466,820,Plastic,1 Year,Manufacturer D,2,TRUE
+2021,26,Young Adults (25-34),M,United States,8,622,1094,Carbon Fiber,Lifetime,Manufacturer D,2,FALSE
+2015,30,Young Adults (25-34),M,Canada,5,492,787,Plastic,1 Year,Manufacturer B,3,TRUE
+2014,30,Young Adults (25-34),M,Canada,7,689,1102,Plastic,2 Years,Manufacturer C,3,TRUE
+2021,35,Adults (35-64),M,United States,10,968,1558,Plastic,1 Year,Manufacturer C,1,TRUE
+2022,35,Adults (35-64),M,United States,11,1065,1714,Carbon Fiber,3 Years,Manufacturer B,5,FALSE
+2019,30,Young Adults (25-34),F,France,3,214,391,Plastic,Lifetime,Manufacturer B,4,TRUE
+2015,30,Young Adults (25-34),F,France,1,71,130,Carbon Fiber,2 Years,Manufacturer B,2,TRUE
+2016,84,Seniors (64+),F,United Kingdom,5,468,763,Plastic,2 Years,Manufacturer B,1,FALSE
+2018,84,Seniors (64+),F,United Kingdom,5,468,763,Carbon Fiber,1 Year,Manufacturer B,1,FALSE
+2022,30,Young Adults (25-34),M,United Kingdom,4,375,611,Aluminum,1 Year,Manufacturer C,2,FALSE
+2015,30,Young Adults (25-34),M,United Kingdom,4,375,611,Carbon Fiber,1 Year,Manufacturer A,4,TRUE
+2016,36,Adults (35-64),F,Germany,2,178,296,Aluminum,Lifetime,Manufacturer C,1,TRUE
+2019,36,Adults (35-64),F,Germany,1,89,148,Carbon Fiber,Lifetime,Manufacturer C,1,TRUE
+2017,44,Adults (35-64),M,United Kingdom,5,468,763,Plastic,3 Years,Manufacturer A,5,TRUE
+2023,44,Adults (35-64),M,United Kingdom,4,375,611,Steel,2 Years,Manufacturer A,4,TRUE
+2021,23,Youth (<25),M,Australia,9,628,1159,Steel,Lifetime,Manufacturer C,1,FALSE
+2020,23,Youth (<25),M,Australia,11,768,1417,Steel,Lifetime,Manufacturer A,4,TRUE
+2021,32,Young Adults (25-34),F,Australia,6,447,801,Steel,Lifetime,Manufacturer B,2,TRUE
+2017,32,Young Adults (25-34),F,Australia,6,447,801,Carbon Fiber,Lifetime,Manufacturer A,3,FALSE
+2016,33,Young Adults (25-34),F,Australia,8,596,1068,Steel,2 Years,Manufacturer D,1,TRUE
+2020,33,Young Adults (25-34),F,Australia,6,447,801,Plastic,Lifetime,Manufacturer C,5,TRUE
+2018,31,Young Adults (25-34),F,Australia,7,555,968,Plastic,3 Years,Manufacturer C,2,TRUE
+2021,31,Young Adults (25-34),F,Australia,9,714,1245,Aluminum,3 Years,Manufacturer C,4,FALSE
+2020,31,Young Adults (25-34),F,Australia,8,635,1107,Steel,Lifetime,Manufacturer C,2,FALSE
+2023,31,Young Adults (25-34),F,Australia,8,635,1107,Steel,1 Year,Manufacturer D,1,FALSE
+2018,49,Adults (35-64),M,United States,9,585,1116,Steel,1 Year,Manufacturer D,4,FALSE
+2021,49,Adults (35-64),M,United States,6,390,744,Plastic,3 Years,Manufacturer D,3,TRUE
+2022,34,Young Adults (25-34),M,Australia,2,159,277,Steel,1 Year,Manufacturer A,2,FALSE
+2013,34,Young Adults (25-34),M,Australia,4,317,553,Plastic,2 Years,Manufacturer A,1,FALSE
+2021,34,Young Adults (25-34),M,Australia,10,793,1383,Steel,2 Years,Manufacturer D,5,TRUE
+2021,34,Young Adults (25-34),M,Australia,9,714,1245,Plastic,2 Years,Manufacturer D,4,FALSE
+2021,51,Adults (35-64),F,Australia,8,596,1068,Aluminum,1 Year,Manufacturer A,2,TRUE
+2016,51,Adults (35-64),F,Australia,8,596,1068,Plastic,3 Years,Manufacturer B,2,TRUE
+2014,51,Adults (35-64),F,Australia,1,75,134,Steel,Lifetime,Manufacturer D,3,FALSE
+2020,51,Adults (35-64),F,Australia,3,224,401,Aluminum,2 Years,Manufacturer D,3,TRUE
+2021,34,Young Adults (25-34),M,France,6,495,849,Aluminum,3 Years,Manufacturer B,5,TRUE
+2018,34,Young Adults (25-34),M,France,6,495,849,Carbon Fiber,1 Year,Manufacturer B,5,TRUE
+2021,34,Young Adults (25-34),M,Germany,6,533,887,Aluminum,1 Year,Manufacturer C,1,FALSE
+2019,34,Young Adults (25-34),M,Germany,5,444,739,Steel,2 Years,Manufacturer D,1,FALSE
+2014,22,Youth (<25),M,United Kingdom,6,562,916,Plastic,2 Years,Manufacturer C,5,FALSE
+2018,22,Youth (<25),M,United Kingdom,4,375,611,Steel,3 Years,Manufacturer A,5,FALSE
+2015,23,Youth (<25),F,United Kingdom,7,655,1068,Plastic,3 Years,Manufacturer B,4,TRUE
+2019,23,Youth (<25),F,United Kingdom,5,468,763,Carbon Fiber,2 Years,Manufacturer C,3,TRUE
+2014,35,Adults (35-64),M,Germany,2,143,261,Carbon Fiber,2 Years,Manufacturer C,1,FALSE
+2020,35,Adults (35-64),M,Germany,1,71,130,Aluminum,3 Years,Manufacturer A,3,TRUE
+2023,32,Young Adults (25-34),M,France,3,214,391,Plastic,2 Years,Manufacturer D,3,FALSE
+2019,32,Young Adults (25-34),M,France,3,214,391,Plastic,1 Year,Manufacturer A,5,TRUE
+2013,18,Youth (<25),M,Germany,6,476,830,Aluminum,3 Years,Manufacturer A,4,TRUE
+2017,18,Youth (<25),M,Germany,5,397,692,Plastic,1 Year,Manufacturer C,2,TRUE
+2014,24,Youth (<25),M,France,10,889,1479,Aluminum,Lifetime,Manufacturer A,4,FALSE
+2014,24,Youth (<25),M,France,7,622,1035,Steel,Lifetime,Manufacturer A,4,TRUE
+2016,39,Adults (35-64),F,Australia,1,79,138,Steel,3 Years,Manufacturer C,3,FALSE
+2014,39,Adults (35-64),F,Australia,3,238,415,Aluminum,2 Years,Manufacturer C,4,FALSE
+2020,26,Young Adults (25-34),F,Germany,10,793,1383,Steel,3 Years,Manufacturer C,1,FALSE
+2016,26,Young Adults (25-34),F,Germany,7,555,968,Steel,1 Year,Manufacturer C,3,FALSE
+2020,61,Adults (35-64),M,United States,10,968,1558,Steel,1 Year,Manufacturer A,1,FALSE
+2021,61,Adults (35-64),M,United States,10,968,1558,Steel,2 Years,Manufacturer B,2,TRUE
+2014,24,Youth (<25),M,Canada,10,984,1574,Carbon Fiber,1 Year,Manufacturer A,3,FALSE
+2015,24,Youth (<25),M,Canada,10,984,1574,Steel,Lifetime,Manufacturer D,2,TRUE
+2022,40,Adults (35-64),F,Canada,4,394,630,Steel,2 Years,Manufacturer A,3,TRUE
+2016,40,Adults (35-64),F,Canada,3,295,472,Carbon Fiber,1 Year,Manufacturer C,5,TRUE
+2021,34,Young Adults (25-34),F,Germany,6,428,782,Steel,1 Year,Manufacturer B,4,FALSE
+2019,34,Young Adults (25-34),F,Germany,7,500,913,Steel,Lifetime,Manufacturer D,5,TRUE
+2013,34,Young Adults (25-34),M,Australia,3,224,401,Carbon Fiber,1 Year,Manufacturer C,2,TRUE
+2017,34,Young Adults (25-34),M,Australia,1,75,134,Steel,Lifetime,Manufacturer D,4,TRUE
+2022,25,Young Adults (25-34),F,United States,7,455,868,Carbon Fiber,Lifetime,Manufacturer A,3,TRUE
+2014,25,Young Adults (25-34),F,United States,5,325,620,Steel,1 Year,Manufacturer D,4,TRUE
+2023,29,Young Adults (25-34),M,Canada,6,590,944,Steel,3 Years,Manufacturer C,1,TRUE
+2018,29,Young Adults (25-34),M,Canada,8,787,1259,Steel,3 Years,Manufacturer B,4,TRUE
+2018,51,Adults (35-64),M,Australia,6,400,754,Steel,1 Year,Manufacturer B,1,FALSE
+2019,51,Adults (35-64),M,Australia,8,533,1005,Carbon Fiber,Lifetime,Manufacturer C,4,FALSE
+2021,35,Adults (35-64),F,United States,8,775,1247,Carbon Fiber,1 Year,Manufacturer C,1,TRUE
+2022,35,Adults (35-64),F,United States,5,484,779,Steel,Lifetime,Manufacturer D,2,FALSE
+2019,34,Young Adults (25-34),F,United States,4,387,623,Plastic,Lifetime,Manufacturer D,5,TRUE
+2017,34,Young Adults (25-34),F,United States,1,97,156,Plastic,Lifetime,Manufacturer C,3,FALSE
+2015,25,Young Adults (25-34),M,United Kingdom,3,281,458,Aluminum,2 Years,Manufacturer D,4,FALSE
+2017,25,Young Adults (25-34),M,United Kingdom,3,281,458,Aluminum,2 Years,Manufacturer C,5,FALSE
+2017,25,Young Adults (25-34),F,United Kingdom,2,187,305,Carbon Fiber,3 Years,Manufacturer A,3,FALSE
+2018,25,Young Adults (25-34),F,United Kingdom,1,94,153,Carbon Fiber,Lifetime,Manufacturer C,3,TRUE
+2023,25,Young Adults (25-34),F,United Kingdom,8,749,1221,Plastic,2 Years,Manufacturer C,1,FALSE
+2014,25,Young Adults (25-34),F,United Kingdom,10,936,1526,Carbon Fiber,3 Years,Manufacturer A,2,FALSE
+2015,25,Young Adults (25-34),M,Germany,5,397,692,Carbon Fiber,3 Years,Manufacturer B,2,FALSE
+2023,25,Young Adults (25-34),M,Germany,3,238,415,Carbon Fiber,Lifetime,Manufacturer C,5,TRUE
+2021,20,Youth (<25),F,France,1,71,130,Plastic,3 Years,Manufacturer D,2,TRUE
+2014,20,Youth (<25),F,France,1,71,130,Carbon Fiber,2 Years,Manufacturer C,4,TRUE
+2013,21,Youth (<25),F,France,7,433,846,Plastic,2 Years,Manufacturer C,2,FALSE
+2013,21,Youth (<25),F,France,5,309,604,Aluminum,3 Years,Manufacturer B,5,TRUE
+2016,23,Youth (<25),M,France,6,428,782,Plastic,Lifetime,Manufacturer C,2,TRUE
+2015,23,Youth (<25),M,France,3,214,391,Carbon Fiber,Lifetime,Manufacturer A,4,TRUE
+2019,59,Adults (35-64),F,United Kingdom,6,562,916,Aluminum,2 Years,Manufacturer A,1,FALSE
+2023,59,Adults (35-64),F,United Kingdom,8,749,1221,Carbon Fiber,2 Years,Manufacturer C,5,TRUE
+2018,50,Adults (35-64),F,Canada,7,689,1102,Plastic,2 Years,Manufacturer A,1,TRUE
+2019,50,Adults (35-64),F,Canada,9,886,1417,Carbon Fiber,1 Year,Manufacturer B,1,FALSE
+2013,40,Adults (35-64),M,France,10,666,1256,Carbon Fiber,3 Years,Manufacturer D,1,TRUE
+2021,40,Adults (35-64),M,France,12,799,1507,Plastic,Lifetime,Manufacturer D,3,FALSE
+2021,43,Adults (35-64),M,United Kingdom,2,187,305,Carbon Fiber,3 Years,Manufacturer B,3,FALSE
+2016,43,Adults (35-64),M,United Kingdom,2,187,305,Aluminum,1 Year,Manufacturer D,1,TRUE
+2022,36,Adults (35-64),F,Australia,6,447,801,Carbon Fiber,1 Year,Manufacturer D,5,FALSE
+2016,36,Adults (35-64),F,Australia,8,596,1068,Steel,3 Years,Manufacturer A,4,FALSE
+2022,56,Adults (35-64),M,Canada,1,98,157,Aluminum,1 Year,Manufacturer B,4,FALSE
+2013,56,Adults (35-64),M,Canada,1,98,157,Carbon Fiber,Lifetime,Manufacturer B,2,TRUE
+2022,21,Youth (<25),M,United States,7,678,1091,Steel,3 Years,Manufacturer B,5,TRUE
+2023,21,Youth (<25),M,United States,8,775,1247,Plastic,Lifetime,Manufacturer C,3,FALSE
+2014,39,Adults (35-64),F,Australia,7,522,935,Aluminum,1 Year,Manufacturer C,1,FALSE
+2017,39,Adults (35-64),F,Australia,9,671,1202,Steel,2 Years,Manufacturer B,2,FALSE
+2021,31,Young Adults (25-34),F,United States,8,775,1247,Plastic,3 Years,Manufacturer B,4,TRUE
+2015,31,Young Adults (25-34),F,United States,8,775,1247,Aluminum,Lifetime,Manufacturer B,3,FALSE
+2013,31,Young Adults (25-34),F,United States,2,194,312,Steel,Lifetime,Manufacturer A,3,FALSE
+2022,31,Young Adults (25-34),F,United States,1,97,156,Aluminum,Lifetime,Manufacturer A,1,TRUE
+2020,30,Young Adults (25-34),M,France,6,495,849,Plastic,2 Years,Manufacturer C,4,FALSE
+2021,30,Young Adults (25-34),M,France,5,413,708,Plastic,2 Years,Manufacturer D,5,FALSE
+2021,37,Adults (35-64),M,France,8,635,1107,Aluminum,2 Years,Manufacturer B,3,TRUE
+2018,37,Adults (35-64),M,France,8,635,1107,Plastic,Lifetime,Manufacturer B,1,TRUE
+2020,21,Youth (<25),F,France,8,571,1043,Aluminum,Lifetime,Manufacturer D,5,FALSE
+2015,21,Youth (<25),F,France,10,714,1304,Aluminum,3 Years,Manufacturer B,4,TRUE
+2015,22,Youth (<25),M,Germany,9,714,1245,Plastic,2 Years,Manufacturer B,3,TRUE
+2013,22,Youth (<25),M,Germany,11,873,1522,Aluminum,3 Years,Manufacturer D,5,TRUE
+2015,50,Adults (35-64),F,United States,3,233,410,Aluminum,2 Years,Manufacturer B,5,TRUE
+2021,50,Adults (35-64),F,United States,1,78,137,Steel,Lifetime,Manufacturer D,5,FALSE
+2014,50,Adults (35-64),M,United States,3,195,372,Carbon Fiber,2 Years,Manufacturer A,3,TRUE
+2017,50,Adults (35-64),M,United States,5,325,620,Carbon Fiber,1 Year,Manufacturer A,3,FALSE
+2019,47,Adults (35-64),F,United States,4,260,496,Steel,3 Years,Manufacturer A,2,FALSE
+2013,47,Adults (35-64),F,United States,1,65,124,Carbon Fiber,Lifetime,Manufacturer D,4,TRUE
+2014,46,Adults (35-64),M,United States,3,195,372,Aluminum,3 Years,Manufacturer C,1,FALSE
+2022,46,Adults (35-64),M,United States,1,65,124,Carbon Fiber,2 Years,Manufacturer C,5,TRUE
+2014,46,Adults (35-64),F,United States,8,775,1247,Plastic,Lifetime,Manufacturer B,2,FALSE
+2013,46,Adults (35-64),F,United States,9,871,1402,Plastic,3 Years,Manufacturer A,1,FALSE
+2016,46,Adults (35-64),F,United States,3,290,467,Aluminum,3 Years,Manufacturer A,2,TRUE
+2018,46,Adults (35-64),F,United States,3,290,467,Plastic,2 Years,Manufacturer D,3,TRUE
+2013,44,Adults (35-64),F,Australia,3,224,401,Aluminum,2 Years,Manufacturer B,5,TRUE
+2020,44,Adults (35-64),F,Australia,3,224,401,Plastic,2 Years,Manufacturer B,1,FALSE
+2016,50,Adults (35-64),M,Australia,8,635,1107,Aluminum,3 Years,Manufacturer A,1,FALSE
+2016,50,Adults (35-64),M,Australia,9,714,1245,Plastic,Lifetime,Manufacturer D,1,TRUE
+2017,24,Youth (<25),M,France,3,238,415,Steel,Lifetime,Manufacturer B,1,FALSE
+2020,24,Youth (<25),M,France,1,79,138,Steel,2 Years,Manufacturer C,1,TRUE
+2013,48,Adults (35-64),F,Germany,5,357,652,Aluminum,1 Year,Manufacturer B,2,FALSE
+2022,48,Adults (35-64),F,Germany,3,214,391,Steel,Lifetime,Manufacturer B,5,TRUE
+2019,58,Adults (35-64),M,United States,6,390,744,Steel,3 Years,Manufacturer B,3,FALSE
+2017,58,Adults (35-64),M,United States,5,325,620,Plastic,3 Years,Manufacturer D,3,FALSE
+2018,52,Adults (35-64),F,United States,2,130,248,Aluminum,3 Years,Manufacturer C,3,TRUE
+2016,52,Adults (35-64),F,United States,1,65,124,Steel,2 Years,Manufacturer A,3,FALSE
+2022,44,Adults (35-64),M,Australia,7,522,935,Steel,3 Years,Manufacturer C,2,FALSE
+2016,44,Adults (35-64),M,Australia,4,298,534,Carbon Fiber,Lifetime,Manufacturer B,4,TRUE
+2023,35,Adults (35-64),F,United States,1,65,124,Aluminum,Lifetime,Manufacturer C,5,TRUE
+2020,35,Adults (35-64),F,United States,3,195,372,Steel,Lifetime,Manufacturer D,1,FALSE
+2016,35,Adults (35-64),F,United States,8,520,992,Steel,Lifetime,Manufacturer C,4,FALSE
+2023,35,Adults (35-64),F,United States,6,390,744,Plastic,2 Years,Manufacturer C,3,FALSE
+2020,61,Adults (35-64),F,United States,7,678,1091,Plastic,1 Year,Manufacturer C,4,TRUE
+2013,61,Adults (35-64),F,United States,4,387,623,Steel,1 Year,Manufacturer D,5,TRUE
+2018,49,Adults (35-64),F,United States,3,290,467,Aluminum,3 Years,Manufacturer A,1,TRUE
+2019,49,Adults (35-64),F,United States,2,194,312,Aluminum,1 Year,Manufacturer B,1,TRUE
+2020,19,Youth (<25),M,France,8,571,1043,Aluminum,2 Years,Manufacturer C,5,FALSE
+2019,19,Youth (<25),M,France,9,642,1173,Carbon Fiber,1 Year,Manufacturer C,5,FALSE
+2016,25,Young Adults (25-34),M,United States,3,290,467,Aluminum,Lifetime,Manufacturer C,3,TRUE
+2020,25,Young Adults (25-34),M,United States,3,290,467,Aluminum,1 Year,Manufacturer B,1,FALSE
+2019,49,Adults (35-64),F,United States,1,65,124,Aluminum,1 Year,Manufacturer B,4,FALSE
+2018,49,Adults (35-64),F,United States,1,65,124,Carbon Fiber,3 Years,Manufacturer A,2,FALSE
+2017,20,Youth (<25),M,United States,6,581,935,Steel,1 Year,Manufacturer D,2,FALSE
+2017,20,Youth (<25),M,United States,5,484,779,Steel,2 Years,Manufacturer B,5,FALSE
+2018,20,Youth (<25),M,United States,4,387,623,Steel,Lifetime,Manufacturer C,3,TRUE
+2023,20,Youth (<25),M,United States,6,581,935,Steel,1 Year,Manufacturer C,2,TRUE
+2017,32,Young Adults (25-34),M,United Kingdom,1,94,153,Plastic,Lifetime,Manufacturer D,1,FALSE
+2016,32,Young Adults (25-34),M,United Kingdom,1,94,153,Steel,3 Years,Manufacturer C,5,TRUE
+2014,35,Adults (35-64),M,United Kingdom,9,843,1374,Aluminum,2 Years,Manufacturer A,4,TRUE
+2021,35,Adults (35-64),M,United Kingdom,6,562,916,Plastic,2 Years,Manufacturer B,5,FALSE
+2019,41,Adults (35-64),F,United States,5,325,620,Steel,3 Years,Manufacturer A,4,TRUE
+2013,41,Adults (35-64),F,United States,5,325,620,Steel,1 Year,Manufacturer B,5,TRUE
+2013,41,Adults (35-64),F,United States,6,466,820,Carbon Fiber,Lifetime,Manufacturer B,5,TRUE
+2019,41,Adults (35-64),F,United States,4,311,547,Plastic,1 Year,Manufacturer C,5,TRUE
+2013,37,Adults (35-64),M,United States,8,520,992,Aluminum,3 Years,Manufacturer C,4,TRUE
+2021,37,Adults (35-64),M,United States,10,650,1240,Steel,3 Years,Manufacturer C,4,FALSE
+2020,39,Adults (35-64),F,United States,5,484,779,Aluminum,3 Years,Manufacturer D,5,TRUE
+2013,39,Adults (35-64),F,United States,3,290,467,Steel,2 Years,Manufacturer D,2,TRUE
+2018,31,Young Adults (25-34),M,Australia,7,466,879,Steel,1 Year,Manufacturer C,3,FALSE
+2013,31,Young Adults (25-34),M,Australia,5,333,628,Aluminum,Lifetime,Manufacturer D,3,FALSE
+2018,68,Seniors (64+),M,Germany,3,238,415,Aluminum,1 Year,Manufacturer C,3,FALSE
+2015,68,Seniors (64+),M,Germany,5,397,692,Steel,1 Year,Manufacturer A,4,TRUE
+2020,38,Adults (35-64),M,United Kingdom,1,94,153,Carbon Fiber,Lifetime,Manufacturer D,4,TRUE
+2014,38,Adults (35-64),M,United Kingdom,1,94,153,Carbon Fiber,2 Years,Manufacturer C,2,FALSE
+2020,33,Young Adults (25-34),F,Australia,9,714,1245,Steel,Lifetime,Manufacturer B,3,FALSE
+2020,33,Young Adults (25-34),F,Australia,6,476,830,Aluminum,3 Years,Manufacturer C,3,TRUE
+2021,41,Adults (35-64),F,United States,7,678,1091,Aluminum,3 Years,Manufacturer C,5,FALSE
+2014,41,Adults (35-64),F,United States,4,387,623,Aluminum,2 Years,Manufacturer B,4,FALSE
+2014,23,Youth (<25),F,United States,2,130,248,Aluminum,1 Year,Manufacturer B,3,FALSE
+2014,23,Youth (<25),F,United States,3,195,372,Carbon Fiber,Lifetime,Manufacturer D,2,FALSE
+2013,41,Adults (35-64),M,Australia,6,476,830,Aluminum,3 Years,Manufacturer C,2,FALSE
+2016,41,Adults (35-64),M,Australia,8,635,1107,Aluminum,2 Years,Manufacturer A,3,TRUE
+2018,32,Young Adults (25-34),F,United Kingdom,7,655,1068,Steel,1 Year,Manufacturer D,4,FALSE
+2023,32,Young Adults (25-34),F,United Kingdom,5,468,763,Carbon Fiber,Lifetime,Manufacturer A,2,FALSE
+2016,18,Youth (<25),F,Germany,3,214,391,Carbon Fiber,Lifetime,Manufacturer A,5,TRUE
+2015,18,Youth (<25),F,Germany,3,214,391,Aluminum,Lifetime,Manufacturer C,2,FALSE
+2020,19,Youth (<25),F,Germany,9,714,1245,Steel,1 Year,Manufacturer A,1,TRUE
+2022,19,Youth (<25),F,Germany,7,555,968,Aluminum,2 Years,Manufacturer A,1,FALSE
+2016,52,Adults (35-64),F,Germany,5,444,739,Steel,1 Year,Manufacturer C,4,TRUE
